@@ -2,7 +2,7 @@
 
 A chilli-only digital membership that helps beginners grow chillies, cook simple recipes and share what they make.
 
-Decided. 30 September 2026. Source: Week 0 lab.
+Decided. 1 October 2026, confirmed by Priya in her own words. Source: Week 0 lab.
 
 ## Previously
 
