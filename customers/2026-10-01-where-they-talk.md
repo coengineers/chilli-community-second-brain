@@ -10,7 +10,7 @@ Everything found online is Testing. It shows what a few people said, not what me
 - UKClimbing forum, thread "Growing chillies - what's going wrong?". Seen in search results only. The page could not be opened (it asked for a sign-in check).
 - Overclockers UK forum, thread "2024 Chilli Growing Thread". Seen in search results only. The page could not be opened (it refused the request).
 
-A Mumsnet thread came up and was left out, as Priya asked: online gardening forum threads and groups only, no parenting forums.
+Parenting forums were left out, as Priya asked: online gardening forum threads and groups only.
 
 ## In their words (Testing)
 
