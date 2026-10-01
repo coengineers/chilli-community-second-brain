@@ -83,7 +83,7 @@ The two features, easiest first, one a week from Week 15. Each is done when ever
 
 **Checks**
 
-1. Start: A test sale notification in Gumroad's documented format has arrived for test email new.member@example.com. Do: Sign in with that email. See: This week, straight away, with no other step.
+1. Start: A test sale notification in Gumroad's documented format arrives. Do: Sign in with the email it was sent for. See: This week, straight away, with no other step.
 2. Start: Signed out, with a test email that has no purchase. Do: Sign in with that email. See: A plain page saying the membership is not active yet and how to join, and none of the week's content.
 3. Start: The same test sale notification arrives a second time. Do: Open the members list in Priya's area. See: One member for that email, not two.
 4. Start: Test members C and D both got in by a test sale. Do: Send a test refund notification for C's sale, then both reload the app. See: C sees the membership-not-active page and none of the week's content, and D still sees this week.
