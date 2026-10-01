@@ -1,8 +1,8 @@
-# Plan: Members and publishing
+# Plan: Payments and access
 
-Chilli Community. 1 October 2026. Status: Agreed by Priya, 1 October 2026.
+Chilli Community. 1 October 2026. Status: Agreed by Priya, 1 October 2026. Week 17. Not a third feature: version 1 has two features, This week and the weekly post. Payments stay a Gumroad link, and Priya adds founding members by hand. This plan covers who gets in and when access ends.
 
-This replaces the plan of 1 October 2026 that was written in the earlier Week 16 run. Changes from that plan: Past weeks and the challenge are left out of this feature and out of what must not change, because the product plan puts both on hold for version 1; last week simply stops showing to members and is kept, not deleted; the "write the rescue card" by-hand step is removed, because offer version 6 cut the rescue card.
+Past weeks are out of this plan, because the product plan puts them on hold for version 1: last week simply stops showing to members and is kept, not deleted. The rescue card is not here, because offer version 6 cut it.
 
 ## The feature in one line
 Paying on Gumroad lets a member in on their own. A refund or cancel ends their access. Priya adds each week and chooses when it opens. Used by founding members and by Priya.
@@ -33,6 +33,7 @@ Paying on Gumroad lets a member in on their own. A refund or cancel ends their a
 ## What must not change
 - Signing in.
 - This week, with its ticks still there after signing out and back in.
+- The weekly post: a member's photo and the chillies on it.
 
 ## By hand for now
 1. Write each week's recipe, film the video and write the week's job.
@@ -53,4 +54,4 @@ Nobody buys, cancels or refunds anything while checking. Checks use Gumroad's sa
 - How members sign in on the real address (a sign-in link by email is the draft, and needs the email service in by-hand step 4).
 
 ## Not in this feature
-Past weeks, the challenge, comments, notifications, emails from the app other than the sign-in link, checkout inside the app, a page of pilot numbers, an add-a-member step, and Claude adding a week through its connection.
+Past weeks, comments, notifications, emails from the app other than the sign-in link, checkout inside the app, a page of pilot numbers, an add-a-member step, and Claude adding a week through its connection.

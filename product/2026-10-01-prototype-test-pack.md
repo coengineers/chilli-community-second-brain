@@ -5,7 +5,6 @@ The prototype is a clickable member app for Windowsill to Plate. It is for learn
 - **What it tests:** can a first-time member find this week's job and mark it done without help?
 - **Link:** https://claude.ai/artifact/B8E3PsRRHz5jxvpVeD7b8F
 - **Link status:** private to Priya's Claude account. Testers cannot open it until Priya publishes it with a public link (Publish, let anyone with the link view it, copy the link). Publishing is Priya's step.
-- **Replaces:** the test pack of 30 September 2026. Same testers; the prototype is rebuilt in the Chilli look.
 
 ## What the prototype shows
 

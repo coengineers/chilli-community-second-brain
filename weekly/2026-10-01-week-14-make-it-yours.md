@@ -1,6 +1,6 @@
 # Week 14: Make it yours
 
-1 October 2026. This run replaces the Week 14 summary of 30 September 2026.
+1 October 2026.
 
 ## What I made
 - My app, Chilli Community, on its test address (not yet online for the public), in my Chilli look with my words on Home. It was built in Claude Code on the web and I looked at it on my phone.

@@ -1,6 +1,6 @@
 # Week 25: Produce and publish
 
-30 September 2026.
+Wednesday 21 October 2026.
 
 ## What I made
 - My content page for the plants post, in my Claude account and private to me: https://claude.ai/artifact/4jtYodL46MwStYAvF7aQDm. It has the card, a 30 second video script, the Instagram post and the written version for the video description, each ready to copy.
@@ -12,7 +12,7 @@
 - **The next step for the reader:** reply and say what is on their windowsill. I keep the closing question "What's on your windowsill right now?"
 
 ## Check-in
-Chilli has no CRM, so there were no CRM tasks to read. Nothing was overdue. "Capture this week's moments" is due Sunday 4 October 2026 and the first post goes out on Wednesday 7 October 2026.
+Chilli has no task list for this, so there were no tasks to read. Nothing was overdue. "Capture this week's moments" is due Sunday 25 October 2026 and the first post goes out on Wednesday 28 October 2026.
 
 ## Self-check
 My ratings:
@@ -24,14 +24,14 @@ My ratings:
 Claude's view: agreed on all four. One difference: the card is only fully real once my own photo replaces the stand-in, so that part of the first criterion is still to do. Improvement: put my line about the plants being sold as seedlings but already leggy into the video script and the Instagram post too, straight after the windowsill line. I chose to do it, and the change was made.
 
 ## Commitments
-Not in a CRM. Held as my own dated tasks, both mine to do.
+Not in a task list. Held as my own dated tasks, both mine to do.
 
 | Task | Who | Date |
 |---|---|---|
-| Publish "The plants I bought in September" | Priya | Wed 7 Oct 2026 |
-| Note the reaction to "The plants I bought in September" | Priya | Sat 10 Oct 2026 |
+| Publish "The plants I bought in September" | Priya | Wed 28 Oct 2026 |
+| Note the reaction to "The plants I bought in September" | Priya | Sat 31 Oct 2026 |
 
-Earlier dates still stand, including "Capture this week's moments" on Sunday 4 October 2026.
+Earlier dates still stand, including "Capture this week's moments" on Sunday 25 October 2026.
 
 ## Still open
 - Nothing has been posted yet.

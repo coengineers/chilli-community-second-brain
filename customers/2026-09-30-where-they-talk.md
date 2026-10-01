@@ -2,7 +2,7 @@
 
 Who this is about: a UK beginner who bought a chilli plant, lost it, and thinks they are "not a plant person". Source: customer and problem record, 30 September 2026.
 
-Everything found online is Testing. It shows what a few people said, not what members will do. Nobody has been contacted. Online gardening forums, online groups and comments under beginner videos could not be read from here (no sign-in, and search did not return them). UK gardening forum was left out at Priya's request.
+Everything found online is Testing. It shows what a few people said, not what members will do. Nobody has been contacted. Online gardening forums, online groups and comments under beginner videos could not be read from here (no sign-in, and search did not return them).
 
 ## Places read
 

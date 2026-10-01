@@ -1,11 +1,11 @@
 # Pilot plan: Chilli Community
 
-Week 21, Open the pilot. Written 30 September 2026. This plan replaces the earlier one (24 September 2026), which was written under the old name and offer. Private: names only. Email addresses and phone numbers stay out of this second brain.
+Week 21, Open the pilot. Written 30 September 2026. Private: names only. Email addresses and phone numbers stay out of this second brain.
 
-Built from `offer/OFFER.md` (version 4), `product/PRD.md`, `product/2026-10-13-launch-record.md`, `product/2026-09-30-weak-spots.md` and `growth/2026-09-30-warm-list.md`.
+Built from `offer/OFFER.md` (version 6), `product/PRD.md`, `product/2026-10-01-launch-record.md`, `product/2026-10-01-weak-spots.md` and `growth/2026-09-30-warm-list.md`.
 
 - **Pilot status:** Not open yet. Nobody has been invited and nobody has paid.
-- **The board (private page in Priya's Claude account):** https://claude.ai/artifact/QgcJksLESbm8oKr194iABP
+- **The pilot page (private, in Priya's Claude account):** https://claude.ai/artifact/QgcJksLESbm8oKr194iABP
 
 ## Size and dates
 
@@ -33,7 +33,7 @@ Built from `offer/OFFER.md` (version 4), `product/PRD.md`, `product/2026-10-13-l
 |---|---|---|---|
 | Founding members who have joined | Gumroad's sales list, and the members list in Priya's area of the app | 10 to 20 members | Not yet measured |
 | Members who did the recipe, the video and the job | The ticks the app saves each week | At least half of members complete all three | Not yet measured |
-| Members who post to the week's challenge | Challenge posts in the app | At least a third of members post in a week | Not yet measured |
+| Members who post on the weekly post | Posts in the app | At least a third of members post in a week | Not yet measured |
 
 The first two targets are Priya's, 30 September 2026. The third target, at least a third, was Priya's choice on 30 September 2026 after Claude suggested it. Two further measures in `product/PRD.md` are kept for later: still a member after four weeks, and weeks that opened on time.
 
@@ -45,20 +45,20 @@ A round is one week. Priya picks at most one change a round, from a member's own
 
 ## How members are asked what they think
 
-A two-minute check-in every Sunday evening, sent by Priya in her own message, with three questions: what worked, what got in the way, and one thing you would change. Whatever members write in the week's challenge post counts too. Priya copies it across word for word, with first name and initial, where it was said and when. Themes are named in a member's own short phrase and count members, not messages. Members' words stay between Priya and them unless they agree otherwise.
+A two-minute check-in every Sunday evening, sent by Priya in her own message, with three questions: what worked, what got in the way, and one thing you would change. Whatever members write on the weekly post counts too. Priya copies it across word for word, with first name and initial, where it was said and when. Themes are named in a member's own short phrase and count members, not messages. Members' words stay between Priya and them unless they agree otherwise.
 
 ## Who is invited first
 
-Six people. Names only. Nadia, Megan and Jo said yes at £8 a month in the Week 12 asks, which were practice answers for the course. Hannah, Ravi and Beth are warm and fit from the warm list and have not heard the offer yet, so their asks come first: Hannah due Monday 5 October, Ravi Tuesday 6 October, Beth Wednesday 7 October 2026. Priya sends every invitation herself, all six on Monday 19 October 2026, when the Gumroad link exists.
+Six people. Names only. Nadia, Megan and Jo said yes at £8 a month in the Week 12 asks, which were practice answers for the course. Tom and Dee said not now, and Ali had not replied, so Priya checks back with Tom and Dee on Friday 16 October and asks Ali again first. Priya sends every invitation herself, all six on Monday 19 October 2026, when the Gumroad link exists.
 
 | Who | Where they stand | Invitation due |
 |---|---|---|
 | Nadia | Said yes (practice answer) | Mon 19 Oct 2026 |
 | Megan | Said yes (practice answer) | Mon 19 Oct 2026 |
 | Jo | Said yes (practice answer) | Mon 19 Oct 2026 |
-| Hannah | Not asked yet | Mon 19 Oct 2026, after her ask |
-| Ravi | Not asked yet | Mon 19 Oct 2026, after his ask |
-| Beth | Not asked yet | Mon 19 Oct 2026, after her ask |
+| Tom | Said not now, after the summer | Mon 19 Oct 2026, after my check-back |
+| Dee | Said not now, money was tight | Mon 19 Oct 2026, after my check-back |
+| Ali | Asked, no reply yet | Mon 19 Oct 2026, once he replies |
 
 ## What opens the pilot
 
@@ -66,10 +66,10 @@ The doors stay shut until every item passes. From the Week 20 weak spots and the
 
 - First backup and practice restore, photos included: Friday 16 October 2026.
 - The way back tried once, by putting the back soon page up and taking it down: Sunday 18 October 2026.
-- Gumroad product created and test purchase made: Monday 19 October 2026.
+- Gumroad product created and payment page checked: Monday 19 October 2026.
 - The check that asks Gumroad about each sale built and passed: Monday 19 October 2026.
 
-Offer call: Go (30 September 2026). It moves to Retest if fewer than three of Nadia, Megan and Jo go through when week one opens, and to Stop if none do.
+Offer call: Go (1 October 2026). It moves to Retest if fewer than three of Nadia, Megan and Jo go through when week one opens, and to Stop if none do.
 
 ## Stop early if
 
@@ -89,9 +89,9 @@ Confirmed by Priya, 30 September 2026.
 ## Unknown
 
 - Whether anyone will pay. Nobody has paid.
-- Whether Hannah, Ravi and Beth want a place. They have not been asked.
+- Whether Tom, Dee and Ali want a place.
 - Whether both real addresses open and show the latest version. Not checked from the lab.
 
 ## What changed
 
-- 30 September 2026: new plan for Chilli Community, six weeks from Monday 19 October to Sunday 29 November 2026. Replaces the 24 September plan.
+- 30 September 2026: new plan for Chilli Community, six weeks from Monday 19 October to Sunday 29 November 2026.

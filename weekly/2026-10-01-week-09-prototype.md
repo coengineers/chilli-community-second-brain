@@ -4,7 +4,7 @@
 
 A clickable prototype of the Windowsill to Plate member app, in the Chilli look, with four areas (Home, Recipes, Videos, Community) and seven screens. Link: https://claude.ai/artifact/B8E3PsRRHz5jxvpVeD7b8F. It is private until Priya publishes it with a public link. There is no real photo on it yet; Priya's post carries a "Photo to come" tile.
 
-A test pack of three tasks for three testers: [product/2026-10-01-prototype-test-pack.md](../product/2026-10-01-prototype-test-pack.md). It replaces the test pack of 30 September.
+A test pack of three tasks for three testers: [product/2026-10-01-prototype-test-pack.md](../product/2026-10-01-prototype-test-pack.md).
 
 ## Check-in
 

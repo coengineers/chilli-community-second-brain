@@ -1,6 +1,6 @@
-# Member test: Chilli Community app (second run)
+# Member test: Chilli Community app
 
-Thursday 1 October 2026. Simulated for the course: Jo is a practice tester and the results are practice results. Started again from the plan at Priya's choice. The 30 September 2026 run stays in the history.
+Thursday 1 October 2026. Simulated for the course: Jo is a practice tester and the results are practice results.
 
 Jo followed the ten steps on her phone. Priya wrote down one problem in full and the existence of four others. Nothing else was noted, so nothing else is written here.
 
@@ -9,7 +9,7 @@ The Test results page is in Priya's Claude account, called "Chilli member test r
 ## The tester
 
 - **Who:** Jo, one of the three founding members who said yes in the Week 12 asks.
-- **Seen the app before:** No, in Priya's words. The 30 September 2026 record has Jo running the eleven-step test that day, so this is a repeat with the same tester.
+- **Seen the app before:** No, in Priya's words.
 - **Where:** her own phone.
 - **Accounts:** made-up test accounts, removed afterwards.
 - **Help given:** not noted.
@@ -21,7 +21,7 @@ Five problems: one serious (the join link had expired when Jo tapped it at step 
 
 ## The steps
 
-The steps follow the agreed plan of 30 September 2026 (two features, This week and Members and publishing; challenge posts and the starter list are not in version 1). Only step 1 was written down. Every other result is Not noted.
+The steps follow the agreed plan: two features, This week and the weekly post, then payments and access. Past weeks, the rescue card and the starter list are not in version 1. Only step 1 was written down. Every other result is Not noted.
 
 | # | What to achieve | What should happen | Result |
 |---|---|---|---|
@@ -29,8 +29,8 @@ The steps follow the agreed plan of 30 September 2026 (two features, This week a
 | 2 | Find this week's recipe, video and job in one place | All three are on this week | Not noted |
 | 3 | Watch the video with the words on | It plays and the words keep step with what is said | Not noted |
 | 4 | Mark the recipe, video and job done, then sign out and back in | All three are still marked and Home shows 3 of 3 | Not noted |
-| 5 | Find last week's recipe in Past weeks | It shows with your ticks | Not noted |
-| 6 | Find the rescue card from Home | One page on what your plant is telling you and the one thing to try this week | Not noted |
+| 5 | Share a photo of your plant on the week's post | Your photo shows at the top of the week's post | Not noted |
+| 6 | Add a chilli to another member's post | The chilli count goes up by one and stays after a reload | Not noted |
 | 7 | Sign out, then try to open this week's page directly | You get the sign-in page and none of the week's content | Not noted |
 | 8 | Sign in with an email that has not bought | A plain page says the membership is not active yet and how to join | Not noted |
 | 9 | Try to open Priya's area as a member | A plain page says it is not for members | Not noted |
@@ -50,7 +50,7 @@ Serious means a member cannot do what they came to do. Annoying means they get t
 
 - **Join link, reason for the call (Priya):** a member who cannot get in cannot do anything else, so this one comes first.
 - **Join link, not noted:** how long the link lasted before Jo tapped it.
-- **Earlier record:** the 30 September 2026 record graded the four others as annoying, set without details. In this run Priya did not note a grade for them, so none is written here.
+- **Grades for the four others:** Priya did not note a grade for them, so none is written here.
 
 ## Not tried
 

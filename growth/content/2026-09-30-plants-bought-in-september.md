@@ -1,9 +1,9 @@
 # The plants I bought in September
 
-30 September 2026. Week 25. To be published by Priya on Wednesday 7 October 2026, on the Chilli playlist on the CoEngineers YouTube channel and on Instagram, the same moment in both places. Nothing has been posted yet.
+21 October 2026. Week 25. To be published by Priya on Wednesday 28 October 2026, on the Chilli playlist on the CoEngineers YouTube channel and on Instagram, the same moment in both places. Nothing has been posted yet.
 
 ## The moment
-Priya bought two chilli plants in September, a bit late, because every seed packet says start in January. One is an Apache and one is a Hungarian wax. They are on her kitchen windowsill. They were sold as seedlings but already leggy. She does not know how they will do. Source: Priya, 30 September 2026.
+Priya bought two chilli plants in September, a bit late, because every seed packet says start in January. One is an Apache and one is a Hungarian wax. They are on her kitchen windowsill. They were sold as seedlings but already leggy. She does not know how they will do. Source: Priya, 21 October 2026.
 
 ## The one next step for the reader
 Reply and say what is on their windowsill. Priya sends every reply herself. This post does not ask anyone to join.
@@ -49,6 +49,6 @@ Alt text for the photo: say what it shows, for example "Two chilli plants in bla
 - Instagram: the same photo or clip, with the post above.
 
 ## What is known
-- Priya bought the plants and they are the two kinds named: Decided, Priya, 30 September 2026.
+- Priya bought the plants and they are the two kinds named: Decided, Priya, 21 October 2026.
 - How the post will land, and whether any beginner sees it: Unknown. The replies will show.
 - That one post fits inside an hour and a half: Testing. Nothing has been timed yet.

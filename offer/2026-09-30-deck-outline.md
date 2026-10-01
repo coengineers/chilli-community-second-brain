@@ -1,6 +1,6 @@
 # Offer deck outline, 30 September 2026
 
-The deck for Windowsill to Plate, built from `offer/OFFER.md` (version 2) and `offer/2026-09-30-one-pager.md`. It lives in Priya's Claude account and is private until Priya shares it.
+The deck for Windowsill to Plate, built from `offer/OFFER.md` (an earlier version, before the Week 12 change) and `offer/2026-09-30-one-pager.md`. It lives in Priya's Claude account and is private until Priya shares it.
 
 - Deck: https://claude.ai/artifact/5zCvSsuwE93zMMqZSbQS6j
 - Who hears it: Dan P. and Lucy P., friends, on a video call with the screen shared. Decided. Priya, 30 Sep 2026.
@@ -47,7 +47,7 @@ Notes: So here is my one ask. If this sounds like something you would want, rese
 | Show your windowsill; two starter pages; jobs written for an ordinary windowsill, no south-facing window needed | Testing | `offer/OFFER.md`; `offer/2026-09-30-one-pager.md` (the question came from Aisha K., shown without her name) |
 | £8 a month, held for as long as the member stays | Decided | `offer/OFFER.md`; Priya, 24 Sep 2026: "£8 good." |
 | Up to 20 founding places | Decided | `offer/OFFER.md`; `business/DECISIONS.md`, 20 Sep 2026 |
-| Nobody pays until week one opens; Priya tells members the date first | Testing | `offer/OFFER.md` (version 2) |
+| Nobody pays until week one opens; Priya tells members the date first | Testing | `offer/OFFER.md` (an earlier version) |
 | The first-month promise | Decided | Priya, 30 Sep 2026 (Week 7). Slide 4 words it in the first person; the meaning is the same. |
 | The start date | Unknown | `offer/OFFER.md`; to be answered when week one is set |
 | Whether beginners will pay monthly | Unknown | `offer/OFFER.md`; answered by real asks |

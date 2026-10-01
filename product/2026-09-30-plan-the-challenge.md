@@ -1,10 +1,10 @@
-# Plan: The challenge (piece 2)
+# Plan: The weekly post (feature 2)
 
-Chilli Community. 30 September 2026. Agreed by Priya, 30 September 2026.
+Chilli Community. 30 September 2026. Agreed by Priya, 30 September 2026. The second feature of version 1, built in Week 16.
 
 ## The feature in one line
 
-A signed-in member posts a photo and a caption to the week's challenge, sees the other members' posts, and adds a chilli to one they like. For founding members, starting with Nadia, Megan and Jo.
+A signed-in member shares a photo of their plant and a caption on the week's post, sees the other members' posts, and adds a chilli to one they like. For founding members, starting with Nadia, Megan and Jo.
 
 ## Done test (Priya's, decided before building)
 
@@ -18,7 +18,7 @@ I'm signed in and on the week's post. I add a photo and a caption. I see my post
 
 ## The steps, in build order
 
-1. **Post to the week.** A member chooses a photo (from the camera or their photos), writes a caption and posts. The post appears at the top with their display name, the photo, the caption and 0 chillies.
+1. **Share a photo.** A member chooses a photo of their plant (from the camera or their photos), writes a caption and posts it on the week's post. The post appears at the top with their display name, the photo, the caption and 0 chillies.
 2. **See everyone's posts.** The other members' posts for the week show below, newest first, each with name, photo, caption and chilli count.
 3. **Add a chilli.** One chilli each per post: tapping again takes it away. The count is still right after a reload.
 4. **Photos only.** If a member chooses a document instead of a photo, they see a plain message that only photos can be posted, and nothing is posted.
@@ -44,7 +44,6 @@ If the connection drops while posting, the member sees a message that it did not
 
 - This week's recipe, video and job, with ticks that stay after signing out and back in.
 - Home opening on this week's job, and "3 of 3 done".
-- Past weeks, and Yours from the start.
 - Sign-in, My account, My files and Getting started.
 - The Week 14 Home words, the button text and the wordmark.
 
@@ -52,6 +51,6 @@ If the connection drops while posting, the member sees a message that it did not
 
 Priya removes nothing from the app. If a post needs to go, she asks the member or asks Claude.
 
-## Not in this piece
+## Not in this feature
 
-Comments, notifications, emails, Gumroad and scheduling weeks (piece 3).
+Comments, notifications, emails, Gumroad and scheduling weeks. Payments and access are Week 17.

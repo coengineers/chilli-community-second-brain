@@ -74,7 +74,7 @@ None in this version. Earlier versions' windowsill starter list and rescue card 
 ## Limits and deadlines
 
 - Places: 10 to 20 founding members, up to 20. Decided. Source: `business/DECISIONS.md`.
-- Start date: none yet. No deadline or countdown is claimed. The launch date is Unknown.
+- Start date: the doors open on Monday 19 October 2026 (Decided, Priya, Week 19 lab, 1 October 2026). No countdown is claimed on the page.
 
 ## The name
 
@@ -133,12 +133,11 @@ Say the offer out loud to Nadia, Tom and Megan, and write down each person's fir
 | The offer is called Windowsill to Plate | Decided | Priya, 30 September 2026 | 30 Sep 2026 |
 | Anyone will pay for a chilli-only membership | Unknown | Nobody has paid | 1 Oct 2026 |
 | Why Megan R. has never started | Unknown | Not in Priya's notes | 1 Oct 2026 |
-| The launch date | Unknown | `business/DECISIONS.md` | 20 Sep 2026 |
+| The doors open on Monday 19 October 2026 | Decided | Priya, Week 19 lab | 1 Oct 2026 |
 | Results from members | Unknown | Nobody has joined | 1 Oct 2026 |
 
 ## Still to decide
 
-- The launch date.
 - Whether the price works, which only people paying can show.
 - Exact words from Nadia and Tom for the two points that rest on Priya's notes.
 - Permission from anyone quoted before a quote goes on a public page.
@@ -154,7 +153,7 @@ Priya made the call Go: three of the eight people asked said yes at £8 a month,
 - Left alone: the price, £8 a month, and Sam's no ("I'd rather just buy chillies"), because one no is not enough to change the offer.
 - The Proof and Price lines now say how many people said yes, and that nobody has paid.
 - Confirm-by date: 7 October 2026, for Nadia, Megan and Jo. Retest if fewer than three confirm. Stop if none confirm. Pivot if the next asks bring several noes with the same reason.
-- The one-pager still carries the old first-month wording and the cut bonuses. It is to be remade from this version.
+- The one-page summary still carries the old first-month wording and the cut bonuses. It is to be remade from this version.
 
 ### 1 October 2026: version 6
 
@@ -173,7 +172,7 @@ Priya ran the Week 6 lab on her notes of the three conversations, and cut one ro
 - 23 September 2026: version 2.
 - 30 September 2026: version 3.
 - 30 September 2026: version 4, from the Week 6 lab.
-- 30 September 2026: version 5, from the Week 6 lab re-run.
+- 30 September 2026: version 5, from the Week 6 lab.
 - 1 October 2026: version 6, from the Week 6 lab. Replaces version 5; see "What changed".
 - 1 October 2026: Week 12 decision, no new version; see "What changed".
 

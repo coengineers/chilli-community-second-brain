@@ -26,7 +26,7 @@ Claude's view: agreed on 1, 2 and 4. Differed on 3, because the Stop line said "
 Not on a task list. Listed in the chat, all mine:
 - Chase Ali and Nina for an answer. Due Friday 2 October 2026.
 - Ask Sam what would have made it a yes. Due Friday 2 October 2026.
-- Remake the one-pager from the current offer. Due Monday 5 October 2026.
+- Remake the one-page summary from the current offer. Due Monday 5 October 2026.
 - Ask Nadia, Megan and Jo to confirm their place. Due Wednesday 7 October 2026.
 - Ask more people, towards my 10 to 20 founding members. Due Wednesday 14 October 2026.
 - Check back with Tom and Dee. Due Friday 16 October 2026.

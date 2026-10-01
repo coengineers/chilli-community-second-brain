@@ -13,7 +13,7 @@
 - **The four areas of the app** (Home, Recipes, Videos, Community) stay Decided, with my paper sketch as a second source.
 - **The weekly set** is now one recipe, one short video and one community post with a small job inside. The small job is the challenge. It stays Testing.
 - **£8 a month through Gumroad** stays Decided. **10 to 20 founding members** stays Testing.
-- **The Week 12 "Go" call:** its eight answers are marked simulated. I treat them as practice, not evidence. Whether anyone would pay stays Unknown.
+- **Whether anyone would pay** stays Unknown.
 
 ## Check-in
 Chilli had no tasks yet, so there was nothing to check in on. The Summary's first next step (talk to people who lost a chilli plant) is still open.
@@ -24,7 +24,7 @@ My ratings: each change names its cause, yes. Nothing moved to Decided without a
 Claude's view: agreed on the first, second and fourth. The third was only partly true, because I asked a close question on 23 September. The answer differs now because the price and Gumroad are decided, and the page says so. Improvement: end the page on a next step. I chose to add it and it was added.
 
 ## Commitments
-- Ask two people who lost a chilli plant what they did next. Who: Priya. Date: Saturday 3 October 2026. Held here only: I chose not to set it as a task in any CRM.
+- Ask two people who lost a chilli plant what they did next. Who: Priya. Date: Saturday 3 October 2026. Held here only: I chose not to set it as a task in any task list.
 
 ## Records
 - The Summary, updated: `business/2026-09-30-business-snapshot.md`

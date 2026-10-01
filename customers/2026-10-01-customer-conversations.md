@@ -2,7 +2,7 @@
 
 Priya's notes on three conversations, as she gave them in the Week 6 lab on 1 October 2026. The Week 5 record planned them for Friday 2 October (Nadia S.), Saturday 3 October (Tom H.) and Sunday 4 October 2026 (Megan R.). The notes carry no dates, so no conversation date is given here. Priya chose not to give scores. Copied from Priya's notes; nothing added.
 
-## Nadia S.
+## Nadia S., Leeds, cooks most nights
 
 In her words:
 - "Everyone says something different about watering, so I stopped."
@@ -14,7 +14,7 @@ Priya's notes of what she said (not her exact words):
 
 What got in the way: advice that disagrees; no one clear thing to do; the wrong time of year.
 
-## Tom H.
+## Tom H., bought a garden-centre plant
 
 In his words:
 - "I read three websites and they disagreed."
@@ -25,7 +25,7 @@ Priya's notes of what he said (not his exact words):
 
 What got in the way: advice that disagrees; nothing worth it before anything grows.
 
-## Megan R.
+## Megan R., keen cook, never grown anything, small flat
 
 In her words:
 - "What if I kill it?" Her first question when Priya described the idea.
@@ -44,10 +44,6 @@ What got in the way: fear of killing it. Priya confirmed this stops people start
 | The wrong time of year | 1 | Nadia S. |
 | Nothing worth it before anything grows | 1 | Tom H. |
 | Fear of killing it | 1 | Megan R. |
-
-## What changed from the 30 September list
-
-The row "no idea why it went wrong" is cut. Priya said Nadia did not say it. Tom's dropped flowers stay in his notes above, but they are not counted as something he said gets in his way.
 
 ## What has not been asked
 

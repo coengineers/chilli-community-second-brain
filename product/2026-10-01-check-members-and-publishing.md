@@ -1,11 +1,10 @@
-# Check: Members and publishing
+# Check: Payments and access
 
-Chilli Community. 1 October 2026. This replaces the check of 1 October 2026 from the earlier Week 16 run.
+Chilli Community. 1 October 2026. Week 17.
 
-This records what Priya told Claude after building Members and publishing in Claude Code on the web and trying it on her phone. Claude did not see the app itself in this lab, so anything Priya did not report is Unknown. Nobody bought, cancelled or refunded anything: checks used Gumroad's sample messages only.
+This records what Priya told Claude after building payments and access in Claude Code on the web and trying it on her phone. Claude did not see the app itself in this lab, so anything Priya did not report is Unknown. Nobody bought, cancelled or refunded anything: checks used Gumroad's sample messages only.
 
 ## What Priya reported
-- The build did not add photo posting.
 - A sample purchase let her in, and she landed on This week.
 - An email with no purchase saw "membership not active".
 - A sample refund took access away on reload.
@@ -24,7 +23,7 @@ This records what Priya told Claude after building Members and publishing in Cla
 ## Earlier journey
 This week and its ticks still work after this build (Priya, 1 October 2026). From Week 15, Nadia ticked all three, signed out and back in, and her ticks were still there; a second account did not see them (Priya, 1 October 2026).
 
-Tom's first photo was shared from an earlier practice copy. It is not part of this build and is not counted.
+The weekly post (Week 16): Tom posted the first photo. Its checks are in `product/2026-09-30-check-the-challenge.md`.
 
 ## Priya's ratings against the criteria
 | Criterion | Priya | Claude's view |
@@ -43,5 +42,5 @@ Sign in as a second member and look at every page for anyone else's email, then 
 - A message from outside Chilli's Gumroad product letting nobody in: not reported.
 - A free Gumroad code (a £0 sale) letting a founding member in: Unknown.
 - A week saved with no video or no opening time, and the message when the connection drops: not reported.
-- A real purchase on the live product: none made, and none will be.
+- Nobody buys anything on the live product. Priya only checks her payment page.
 - Whether it was checked on the test address or only on the practice copy: Unknown.

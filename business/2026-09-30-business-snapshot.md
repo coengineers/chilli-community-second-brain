@@ -2,26 +2,14 @@
 
 Built from Priya's founder note, Priya's voice memo and a stand-in windowsill photo, plus Priya's answers today. Updated in the Week 3 lab from Priya's notes for the week.
 
-## What changed (Week 3 rerun, 1 October 2026)
-
-Cause for every line below: Priya's notes for the week, 1 October 2026, and her answers in the Week 3 lab. Her notes repeat the notes of 30 September, so they confirm lines and are not counted as a new source.
-
-- **The four areas of the app: confirmed, no change.** Before: Decided. After: Decided. Cause: Priya's notes, which mention her paper sketch.
-- **The weekly set: confirmed, no change.** Before (Testing): each week, one recipe, one short video and one community post with a small job inside. After (Testing): the same. Cause: Priya's notes. Nobody has used a week yet.
-- **Price, payment and member number: confirmed, no change.** £8 a month, held while the member stays, stays Decided. Payment through Gumroad stays Decided. 10 to 20 founding members stays Testing, because Priya wrote "aiming for". Cause: Priya's notes.
-- **Whether anyone would pay: unchanged, Unknown.** Cause: Priya's notes say she has not asked a UK beginner who wants to grow chillies anything yet.
-- **Wording corrected.** The four areas line under "Decided" now cites "Priya's notes, which mention her paper sketch". It said "Priya's notes and paper sketch", but only Priya's words about the sketch were seen, not the sketch.
-
-No line moved between Decided, Testing and Unknown.
-
 ## What changed (Week 3, 30 September 2026)
 
 Cause for every change below: Priya's notes for the week, 30 September 2026, and her answers in the Week 3 lab.
 
-- **The four areas of the app: added.** Before: not in this Summary. After: the app has four areas, Home, Recipes, Videos and Community. Decided. Cause: Priya's notes, where she says she sketched them on paper and is not changing them. It was already Decided on 23 September (your decisions list), so his notes are a second source.
+- **The four areas of the app: added.** Before: not in this Summary. After: the app has four areas, Home, Recipes, Videos and Community. Decided. Cause: Priya's notes, where she says she sketched them on paper and is not changing them. It was already Decided on 23 September (your decisions list), so her notes are a second source.
 - **The weekly set: reworded.** Before (Testing): each week, one recipe, one short video, one challenge, one post. After (Testing): each week, one recipe, one short video and one community post with a small job inside. Cause: Priya's notes say "one recipe, one short video and one small job, with a community post", and Priya confirmed in the lab that the small job is the challenge. It stays Testing because nobody has used a week yet.
 - **Price and payment: confirmed, no change.** £8 a month, held while the member stays, paid through Gumroad, stays Decided. 10 to 20 founding members stays Testing, because Priya wrote "aiming for". Cause: Priya's notes.
-- **Whether anyone would pay: unchanged, Unknown.** Cause: Priya's notes say she has not asked anyone who fits, a UK beginner who wants to grow chillies. The Week 12 "Go" call of 30 September rests on answers marked simulated for the course. Priya chose to treat them as practice, not evidence, so they move nothing.
+- **Whether anyone would pay: unchanged, Unknown.** Cause: Priya's notes say she has not asked anyone who fits, a UK beginner who wants to grow chillies.
 
 No line moved between Decided, Testing and Unknown.
 
@@ -59,7 +47,7 @@ A weekly recipe, short video and community post with a small job inside, digital
 - Finding the first members through real outreach to your own network. Who to ask first is still open. (Your decisions list, 23 September 2026)
 
 ### Unknown
-- Whether anyone would pay. Nobody has told Priya they would, and she has not yet asked anyone who fits. The Week 12 "Go" call rests on simulated answers and is not counted. A conversation with a beginner who fits would answer it.
+- Whether anyone would pay. Nobody has told Priya they would, and she has not yet asked anyone who fits. A conversation with a beginner who fits would answer it.
 - The launch date.
 - Whether a seed pack comes later.
 - What a beginner does today after a plant dies.
@@ -72,4 +60,4 @@ A weekly recipe, short video and community post with a small job inside, digital
 
 ## Sources
 
-Priya's founder note, 30 September 2026. Priya's voice memo, 30 September 2026. Windowsill photo (illustrative stand-in), 30 September 2026. Priya, in this lab, 30 September 2026. Priya's decisions list (price 24 September, Gumroad 23 September). Priya's notes for the week, 30 September 2026. Priya's notes for the week, 1 October 2026, and Priya in the Week 3 lab, 1 October 2026.
+Priya's founder note, 30 September 2026. Priya's voice memo, 30 September 2026. Windowsill photo (illustrative stand-in), 30 September 2026. Priya, in this lab, 30 September 2026. Priya's decisions list (price 24 September, Gumroad 23 September). Priya's notes for the week, 30 September 2026.

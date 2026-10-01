@@ -23,4 +23,4 @@ The landing page is at chilli.coengineers.ai. Claude did not open it and did not
 
 ## The offer behind it
 
-See `offer/OFFER.md`, version 6. The price is still being tested: nobody has paid. The offer still says the launch date is not set, so it needs updating to the doors date, Monday 19 October 2026, once Priya confirms what it means for week one.
+See `offer/OFFER.md`, version 6. The price is still being tested: nobody has paid. The offer carries the doors date, Monday 19 October 2026.

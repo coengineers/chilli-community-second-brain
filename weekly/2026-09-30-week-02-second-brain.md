@@ -12,7 +12,7 @@
 - The photo is a stand-in and is labelled Illustrative.
 
 ## Check-in
-The connected CRM is not Chilli's, so there was nothing to check. This week's task is listed in chat, not in the CRM.
+The connected task list is not Chilli's, so there was nothing to check. This week's task is listed in chat, not in the task list.
 
 ## Self-check
 My ratings: every line carries a label, yes. Every Decided line names its source, yes. The customer is one kind of person, yes. Four Unknowns named, yes. A stranger could say what the business is, partly, because price and payment were missing.

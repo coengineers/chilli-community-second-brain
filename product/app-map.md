@@ -31,7 +31,7 @@ Read from the descriptions of the changes made on 23 and 24 September 2026. None
 - **Your membership is not active yet:** a signed-in person with no paid membership.
 - **This week:** paying members and you. The recipe, the video, the job, and ticks.
 - **The week's posts:** paying members and you. Photos, captions, chillies.
-- **Past weeks:** paying members and you.
+- **Past weeks:** built, and kept out of members' sight in version 1.
 - **My account:** only that person. The name shown on their posts.
 - **Getting started:** a signed-in person.
 - **Priya's area:** you only. Every week, the members list and the Gumroad connection.
@@ -112,5 +112,5 @@ Planned, none of it done.
 
 ## What changed
 
-- 30 September 2026: first version of this map in this file, made in the app setup session. It is a practice map, Simulated for the course. It replaces the earlier practice map of 23 September 2026.
+- 30 September 2026: first version of this map in this file, made in the app setup session. It is a practice map, Simulated for the course.
 - 1 October 2026 (Week 14): the app was built in your look, with your wordmark and your colours and type exactly as the brand kit has them. Home says "One clear thing to do this week." with the line "Your recipe, its short video and one small job for your plant, all in one place." The sign-in page says "Welcome back." with "Sign in to see this week's recipe, video and job." You looked at it on your phone. Home was not changed to open on this week's job: that is a decision for Week 15. Nothing else on this map was rechecked.

@@ -1,6 +1,6 @@
 # Week 15: First journey
 
-1 October 2026. This replaces the Week 15 summary of 30 September 2026.
+1 October 2026.
 
 ## What I made
 - The first piece of my app, This week, built in Claude Code on the web from my agreed plan: a signed-in member sees the week's recipe, video and job, ticks each off, and Home opens on this week's job. Nadia tried it on her phone and found the job first time, without help.

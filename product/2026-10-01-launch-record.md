@@ -37,7 +37,7 @@ Priya says none of the four other problems was serious, so nothing holds the lau
 - **What:** try a fix for one hour. If that has not worked, put a short back soon page on the address while it is fixed.
 - **Who decides, and who can do it:** Priya, and only Priya for now.
 - **Members' details:** never undone by deleting. Fixed with a further change.
-- **Tried yet:** No. Priya will put the page up and take it down once on Friday 9 October 2026.
+- **Tried yet:** No. Priya will put the page up and take it down once on Friday 16 October 2026.
 
 ## Live and open are separate
 
@@ -47,8 +47,8 @@ Priya says none of the four other problems was serious, so nothing holds the lau
 
 ## Still to do, with dates
 
-- Open both addresses from a different phone or network and note what is seen: Wednesday 7 October 2026.
-- Try the back soon page once: Friday 9 October 2026.
+- Open both addresses from a different phone or network and note what is seen: Wednesday 14 October 2026, the day after going live.
+- Try the back soon page once: Friday 16 October 2026.
 - Open the doors: Monday 19 October 2026.
 
 ## Unknown
@@ -56,6 +56,6 @@ Priya says none of the four other problems was serious, so nothing holds the lau
 - Whether both addresses open and show the latest version from any phone but Priya's.
 - Whether the name connections have finished settling.
 - Whether the London and who-sees-what lines on the privacy page match the live database.
-- Whether the app's copy has moved into Priya's account. It sat under CoEngineers in the 30 September app map.
+- Whether the app's copy has moved into Priya's account. It sat under CoEngineers in the app map.
 - How often to repeat the saved copy once real members join.
 - Ed's review of the app changes and the privacy page: no date set. The plan says the paid pilot waits for it.

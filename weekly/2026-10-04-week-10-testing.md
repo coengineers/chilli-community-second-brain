@@ -1,4 +1,4 @@
-# Week 10: test it with three people (1 October 2026)
+# Week 10: test it with three people (4 October 2026)
 
 ## What was made
 

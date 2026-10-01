@@ -7,7 +7,7 @@
 **At least 10 founding members paying, and week one open, by 23 December 2026.**
 
 - Status: Testing. Claude's recommendation from your second brain, yours to confirm (Draft, Priya to confirm).
-- Superseded on 30 September 2026 by `business/2026-09-30-90-day-plan.md`: the goal is now 20 paying members by the end of March 2027, with 10 paying founding members and week one open by 29 December 2026 as the 90-day mark. See Changes.
+- Superseded on 22 October 2026 by `business/2026-10-01-90-day-plan.md`: the goal is now 20 paying members by the end of March 2027, with 10 paying founding members by 19 January 2027 as the 90-day mark. See Changes.
 
 ### Why this, why now
 
@@ -34,7 +34,7 @@ Counted the same way every week in the review.
 ### Month one: by 24 October 2026
 
 - **What will be true:** ten people named, and every one of them asked, with their answers written down, noes included.
-- **How you will know:** the warm list shows ten names, and the ask tracker shows ten asked.
+- **How you will know:** the warm list shows ten names, and the ask page shows ten asked.
 - **Status:** To come.
 
 ### Month two: by 23 November 2026
@@ -52,10 +52,10 @@ Counted the same way every week in the review.
 ## What I will stop doing
 
 1. **Building new app features before a member has used the ones there.** Three parts are built and checked with practice members; nobody real has signed in. The next app work is the database and Ed's review, not a fourth part.
-2. **Making more sales material before anyone has seen it.** The one-pager, deck, landing page, prototype and offer version 2 are made, and nobody has seen any of them. The next change to the offer comes from what people say.
+2. **Making more sales material before anyone has seen it.** The one-page summary, deck, landing page, prototype and offer version 2 are made, and nobody has seen any of them. The next change to the offer comes from what people say.
 3. **Making new content faster than it is posted.** The first content family is ready and nothing is posted. No new family until the first is posted.
 
 ## Changes
 
 - 24 September 2026: first plan, drafted from the second brain in the first weekly review. The goal and the measures' targets are Testing, yours to confirm.
-- 30 September 2026: replaced by the Week 26 plan (`business/2026-09-30-90-day-plan.md`). The goal is now 20 paying members by the end of March 2027, with 10 paying founding members and week one open by 29 December 2026 as the 90-day mark. This plan stays as the record of the first draft.
+- 22 October 2026: replaced by the Week 26 plan (`business/2026-10-01-90-day-plan.md`). The goal is now 20 paying members by the end of March 2027, with 10 paying founding members by 19 January 2027 as the 90-day mark. This plan stays as the record of the first draft.

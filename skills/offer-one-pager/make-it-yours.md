@@ -1,4 +1,4 @@
-# Make it yours: offer one-pager
+# Make it yours: offer one-page summary
 
 Your version, last changed 24 September 2026.
 
@@ -52,5 +52,5 @@ Company history, how the product is built, long feature lists, more than five it
 Why it is here: every extra line costs the reader a second they may not give.
 
 ## 10. Photo
-None by default. Use a real photo of the thing itself if the founder has one: Priya's own windowsill photo from `growth/photos`. No generated image on this page, not even one captioned "Illustrative": the windowsill scene shows a harvest, and it pushed the PDF to two pages in week 7.
+None by default. Use a real photo of the thing itself if the founder has one: Priya's own windowsill photo, once she has added one. No generated image on this page, not even one captioned "Illustrative": the windowsill scene shows a harvest, and it pushed the PDF to two pages in week 7.
 Why it is here: a reader takes a photo on a sales sheet as Priya's own plants, so only her real one goes on.
