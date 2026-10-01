@@ -2,7 +2,7 @@
 
 A chilli-only digital membership that helps beginners grow chillies, cook simple recipes, watch recipe demonstrations and share what they make.
 
-**Why this look:** it is calm, warm and plain, with real windowsill photos and one orange, so someone who gave up after one dead plant feels welcome, not talked down to by experts or a cartoon. In Priya's words: it feels like a proper club, not a shop.
+**Why this look:** it is calm, warm and plain, with real windowsill photos and one orange, so someone who gave up after one dead plant feels welcome, not talked down to by experts or a cartoon. In Priya's words: it feels like a club, not a shop.
 
 The CoEngineers design system, with one change. Every CoEngineers token in this file (colours, spacing, radius, components) matches the CoEngineers house style value for value, because the Chilli case study and videos are already built on it. The one change: small uppercase labels are set in Inter, so Chilli uses two typefaces, not three. Chilli's own parts are the wordmark, the mark, two extra colours for small details, the imagery rule and the voice.
 
