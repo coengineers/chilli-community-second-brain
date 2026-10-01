@@ -69,6 +69,7 @@ Only where each one lives. The keys themselves are never written here.
 - **The test address loads:** Not checked yet. You kept it closed. Unknown whether it loads.
 - **The database, online home and the links between them:** Unknown (Simulated for the course). Nothing in this session can see Supabase or Cloudflare.
 - **You signed up, added a name, saved and removed a file, signed out and in:** Not checked yet. It needs the test address and the database first.
+- **The app in your look, on your phone:** Checked by you on 1 October 2026 (Week 14). You opened it on your phone and said it opens, with your colours and wordmark and your Home words. Claude did not open it.
 
 ## In this chat, and on other sites
 
@@ -101,6 +102,7 @@ Planned, none of it done.
 - Move the app's copy into your own account, in the live session.
 - Email sending for members' sign-in links, and the real address, before go-live.
 - Ed's review before the paid pilot. Your plan says the pilot waits for it.
+- Week 15: decide whether Home should open on this week's job.
 
 ## How to get help
 
@@ -111,3 +113,4 @@ Planned, none of it done.
 ## What changed
 
 - 30 September 2026: first version of this map in this file, made in the app setup session. It is a practice map, Simulated for the course. It replaces the earlier practice map of 23 September 2026.
+- 1 October 2026 (Week 14): the app was built in your look, with your wordmark and your colours and type exactly as the brand kit has them. Home says "One clear thing to do this week." with the line "Your recipe, its short video and one small job for your plant, all in one place." The sign-in page says "Welcome back." with "Sign in to see this week's recipe, video and job." You looked at it on your phone. Home was not changed to open on this week's job: that is a decision for Week 15. Nothing else on this map was rechecked.
