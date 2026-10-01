@@ -69,7 +69,7 @@ None in this version. Earlier versions' windowsill starter list and rescue card 
 **The first-month promise.** Kill your chilli plant? Your first month is back. Cook the recipe, watch the video and do the week's job. If it hasn't helped by the end of week four, tell Priya and she refunds your first month in full.
 
 - Type: conditional refund. It promises only what Priya controls (the weekly recipe, video and job, and the refund), never a harvest.
-- Status: wording confirmed by Priya, 1 Oct 2026. Whether it helps anyone is Testing. Source: Megan R. ("What if I kill it?").
+- Status: wording confirmed by Priya, 1 Oct 2026. Whether it helps anyone is Testing. Source: Megan R. ("What if I kill it?"); also asked by Jo (Priya, 1 Oct 2026).
 
 ## Limits and deadlines
 
@@ -82,7 +82,7 @@ None in this version. Earlier versions' windowsill starter list and rescue card 
 
 ## Proof
 
-No results yet. Nobody has joined, grown or cooked with Chilli Community. Nobody has been asked about a price.
+No results yet. Nobody has joined, grown or cooked with Chilli Community. Nobody has paid. Of eight people asked at £8 a month, three have said yes (Nadia, Megan, Jo), two not now, one no, and two have not replied (Priya, 1 Oct 2026). That is an early signal, not proof.
 
 ## Objections and answers
 
@@ -90,13 +90,13 @@ One comes from the conversations.
 
 | What they worry about | Where it came from | The answer | Status |
 |---|---|---|---|
-| "What if I kill it?" | Megan R., her first question when Priya described the idea | Nobody can promise a harvest. What is promised: a recipe, a video and a job every week, and your first month back if it has not helped by the end of week four. | Testing |
+| "What if I kill it?" | Megan R., her first question when Priya described the idea; Jo asked it too | Nobody can promise a harvest. What is promised: a recipe, a video and a job every week, and your first month back if it has not helped by the end of week four. | Testing |
 
 ## Price
 
-**Status: Testing.** Nobody has been asked about a price, so nobody has said yes or no to it.
+**Status: Testing.** Three of eight people asked have said yes at this price. Nobody has paid.
 
-**£8 a month, the founding price, held for as long as the member stays, paid through Gumroad.** Priya chose £8 on 24 Sep 2026 and confirmed it again in the Week 6 lab, 1 Oct 2026, over £12 a month and £40 for six months upfront.
+**£8 a month, the founding price, held for as long as the member stays, paid through Gumroad.** Priya chose £8 on 24 Sep 2026 and confirmed it again in the Week 6 lab, 1 Oct 2026, over £12 a month and £40 for six months upfront. Kept in the Week 12 decision, 1 Oct 2026.
 
 Why £8, as Priya confirmed:
 - It sits under the cheapest grow kit in her research: £13.35 for a four-variety kit (desk research, seen 23 Sep 2026, not checked again).
@@ -126,11 +126,12 @@ Say the offer out loud to Nadia, Tom and Megan, and write down each person's fir
 | The week's job removes having no one clear thing to do | Testing | Priya's note of Nadia S. | 1 Oct 2026 |
 | Start where you are removes the wrong time of year | Testing | Nadia S., her words | 1 Oct 2026 |
 | The weekly recipe with a short video removes nothing worth it before anything grows | Testing | Priya's note of Tom H. | 1 Oct 2026 |
-| The first-month promise removes the fear of killing it; wording as above | Testing | Megan R., her words; wording confirmed by Priya | 1 Oct 2026 |
-| Founding price £8 a month, held while the member stays, through Gumroad | Testing | Priya, 24 Sep 2026 and 1 Oct 2026; nobody asked | 1 Oct 2026 |
+| The first-month promise removes the fear of killing it; wording as above | Testing | Megan R. and Jo, their words; wording confirmed by Priya | 1 Oct 2026 |
+| Founding price £8 a month, held while the member stays, through Gumroad | Testing | Priya, 24 Sep 2026 and 1 Oct 2026; three of eight asked said yes | 1 Oct 2026 |
+| Three of eight people asked said yes at £8 a month | Decided (as Priya's account) | Priya, Week 12 lab | 1 Oct 2026 |
 | Cheapest grow kit £13.35; seed box £17.99 a month | Decided (as seen, not checked again) | Desk research | Seen 23 Sep 2026 |
 | The offer is called Windowsill to Plate | Decided | Priya, 30 September 2026 | 30 Sep 2026 |
-| Anyone will pay for a chilli-only membership | Unknown | Nobody has been asked | 1 Oct 2026 |
+| Anyone will pay for a chilli-only membership | Unknown | Nobody has paid | 1 Oct 2026 |
 | Why Megan R. has never started | Unknown | Not in Priya's notes | 1 Oct 2026 |
 | The launch date | Unknown | `business/DECISIONS.md` | 20 Sep 2026 |
 | Results from members | Unknown | Nobody has joined | 1 Oct 2026 |
@@ -138,11 +139,22 @@ Say the offer out loud to Nadia, Tom and Megan, and write down each person's fir
 ## Still to decide
 
 - The launch date.
-- Whether the price works, which only asking real people can show.
+- Whether the price works, which only people paying can show.
 - Exact words from Nadia and Tom for the two points that rest on Priya's notes.
 - Permission from anyone quoted before a quote goes on a public page.
 
 ## What changed
+
+### 1 October 2026: Week 12 decision
+
+Priya made the call Go: three of the eight people asked said yes at £8 a month, which meets her go line. The record is `offer/2026-10-01-decision.md`.
+
+- No new version. The first-month promise already reads "Kill your chilli plant? Your first month is back." in version 6, and Priya confirmed that wording stays.
+- Why: Megan and Jo both asked Priya "What if I kill it?" before saying yes. Jo is added as a source beside Megan.
+- Left alone: the price, £8 a month, and Sam's no ("I'd rather just buy chillies"), because one no is not enough to change the offer.
+- The Proof and Price lines now say how many people said yes, and that nobody has paid.
+- Confirm-by date: 7 October 2026, for Nadia, Megan and Jo. Retest if fewer than three confirm. Stop if none confirm. Pivot if the next asks bring several noes with the same reason.
+- The one-pager still carries the old first-month wording and the cut bonuses. It is to be remade from this version.
 
 ### 1 October 2026: version 6
 
@@ -163,6 +175,7 @@ Priya ran the Week 6 lab on her notes of the three conversations, and cut one ro
 - 30 September 2026: version 4, from the Week 6 lab.
 - 30 September 2026: version 5, from the Week 6 lab re-run.
 - 1 October 2026: version 6, from the Week 6 lab. Replaces version 5; see "What changed".
+- 1 October 2026: Week 12 decision, no new version; see "What changed".
 
 ---
 
