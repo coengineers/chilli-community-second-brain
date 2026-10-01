@@ -16,7 +16,7 @@
 Online gardening forums, online groups and video comments could not be read from here. Retailer reviews and newsletter comments gave a few real voices, all Testing. Five practice posts I pasted are marked Simulated and not counted. What a beginner does after a plant dies, and whether anyone would pay, stay Unknown.
 
 ## Check-in
-I chose not to read the CRM this week. My Week 4 task, showing the brand kit to Aisha K., happened: she said it looks like a proper club, not a shop. My Week 3 next step, asking two people who lost a chilli plant what they did next, is still open for Saturday 3 October 2026 and overlaps with my conversation with Tom H.
+I chose not to read the CRM this week. My Week 4 task, showing the brand kit to Aisha K., happened: she said it looks like a club, not a shop. My Week 3 next step, asking two people who lost a chilli plant what they did next, is still open for Saturday 3 October 2026 and overlaps with my conversation with Tom H.
 
 ## Self-check
 My ratings: the three people fit the customer, yes. The script asks about the past, yes. No question pitches, yes. Quotes say who and where, yes. I know what would change my mind, yes.
