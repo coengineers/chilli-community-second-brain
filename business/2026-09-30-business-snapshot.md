@@ -2,6 +2,18 @@
 
 Built from Priya's founder note, Priya's voice memo and a stand-in windowsill photo, plus Priya's answers today. Updated in the Week 3 lab from Priya's notes for the week.
 
+## What changed (Week 3 rerun, 1 October 2026)
+
+Cause for every line below: Priya's notes for the week, 1 October 2026, and her answers in the Week 3 lab. Her notes repeat the notes of 30 September, so they confirm lines and are not counted as a new source.
+
+- **The four areas of the app: confirmed, no change.** Before: Decided. After: Decided. Cause: Priya's notes, which mention her paper sketch.
+- **The weekly set: confirmed, no change.** Before (Testing): each week, one recipe, one short video and one community post with a small job inside. After (Testing): the same. Cause: Priya's notes. Nobody has used a week yet.
+- **Price, payment and member number: confirmed, no change.** £8 a month, held while the member stays, stays Decided. Payment through Gumroad stays Decided. 10 to 20 founding members stays Testing, because Priya wrote "aiming for". Cause: Priya's notes.
+- **Whether anyone would pay: unchanged, Unknown.** Cause: Priya's notes say she has not asked a UK beginner who wants to grow chillies anything yet.
+- **Wording corrected.** The four areas line under "Decided" now cites "Priya's notes, which mention her paper sketch". It said "Priya's notes and paper sketch", but only Priya's words about the sketch were seen, not the sketch.
+
+No line moved between Decided, Testing and Unknown.
+
 ## What changed (Week 3, 30 September 2026)
 
 Cause for every change below: Priya's notes for the week, 30 September 2026, and her answers in the Week 3 lab.
@@ -36,7 +48,7 @@ A weekly recipe, short video and community post with a small job inside, digital
 - The community is friendly, not a forum of experts.
 - Founding price: £8 a month, held while the member stays. (Your decisions list, 24 September 2026; Priya's notes, 30 September 2026)
 - Payments go through Gumroad at first. (Your decisions list, 23 September 2026; Priya's notes, 30 September 2026)
-- The app has four areas: Home, Recipes, Videos and Community. (Your decisions list, 23 September 2026; Priya's notes and paper sketch, 30 September 2026)
+- The app has four areas: Home, Recipes, Videos and Community. (Your decisions list, 23 September 2026; Priya's notes, which mention her paper sketch, 30 September 2026)
 
 ### Testing
 - Each week: one recipe, one short video and one community post with a small job inside. (Priya's notes, 30 September 2026)
@@ -60,4 +72,4 @@ A weekly recipe, short video and community post with a small job inside, digital
 
 ## Sources
 
-Priya's founder note, 30 September 2026. Priya's voice memo, 30 September 2026. Windowsill photo (illustrative stand-in), 30 September 2026. Priya, in this lab, 30 September 2026. Priya's decisions list (price 24 September, Gumroad 23 September). Priya's notes for the week, 30 September 2026.
+Priya's founder note, 30 September 2026. Priya's voice memo, 30 September 2026. Windowsill photo (illustrative stand-in), 30 September 2026. Priya, in this lab, 30 September 2026. Priya's decisions list (price 24 September, Gumroad 23 September). Priya's notes for the week, 30 September 2026. Priya's notes for the week, 1 October 2026, and Priya in the Week 3 lab, 1 October 2026.
