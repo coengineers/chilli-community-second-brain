@@ -8,7 +8,7 @@ Thursday 1 October 2026. Second run. The 30 September 2026 notes stay in the his
 ## Decisions I made
 - **The order:** keep it as drafted. The cancelled member still seeing the week's post is first. Nothing missed.
 - **Weak spot 1:** fixed, and rechecked on my phone as four people: ended month, never paid and signed out all see membership not active, and a paying member gets straight in.
-- **The rest, dated:** privacy page checked against the database by Wednesday 7 October. Back soon page tried once on Friday 9 October. App's copy moved into my account by Tuesday 13 October. Gumroad check built and tried with test sales by Sunday 18 October, real try Monday 19 October, doors stay shut until it passes.
+- **The rest, dated:** privacy page checked against the database by Wednesday 7 October. Back soon page tried once on Friday 9 October. App's copy moved into my account by Tuesday 13 October. Gumroad check built and tried with test sales by Sunday 18 October, real purchase on the live product Monday 19 October, doors stay shut until it passes.
 - **Accepted:** errors and usage, for the pilot. Only 10 to 20 members and I will ask them to tell me if something breaks. Look again Monday 26 October.
 
 ## Check-in
@@ -28,7 +28,7 @@ Not in the task list, at my say-so. Listed here and in the chat, mine:
 - Fix: try the back soon page once. Who: Priya. Category: product. Due Friday 9 October 2026.
 - Fix: move the app's copy into my account. Who: Priya. Category: product. Due Tuesday 13 October 2026.
 - Fix: build the Gumroad check and try it with test sales. Who: Priya. Category: product. Due Sunday 18 October 2026.
-- Fix: real test purchase passes the Gumroad check. Who: Priya. Category: product. Due Monday 19 October 2026. Doors stay shut until it passes.
+- Fix: real purchase on the live product passes the Gumroad check. Who: Priya. Category: product. Due Monday 19 October 2026. Doors stay shut until it passes.
 - Look at errors and usage again. Who: Priya. Category: product. Due Monday 26 October 2026.
 
 ## Still open

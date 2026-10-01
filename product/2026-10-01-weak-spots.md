@@ -13,7 +13,7 @@ Six weak spots, ranked by harm to members with security first. The worst, a canc
 | # | Weak spot | Who it affects | State | Call | Date |
 |---|---|---|---|---|---|
 | 1 | A cancelled or never-paid person could still see the week's recipe, video and job | Every paying member: what they paid for open to people who do not pay | Fixed, rechecked by Priya on her phone | Fix | Done |
-| 2 | A Gumroad sale notice is trusted without asking Gumroad | Members: a stranger let in without paying could see members' names | Still to do | Fix | Build and try with test sales by Sunday 18 October 2026. Real test purchase Monday 19 October 2026. Doors stay shut until it passes. |
+| 2 | A Gumroad sale notice is trusted without asking Gumroad | Members: a stranger let in without paying could see members' names | Still to do | Fix | Build and try with test sales by Sunday 18 October 2026. Real purchase on the live product Monday 19 October 2026. Doors stay shut until it passes. |
 | 3 | The privacy page may not match the live database | Members: their details may be kept somewhere other than what they are told | Unknown | Fix | Wednesday 7 October 2026 |
 | 4 | The app's copy sits under CoEngineers, not Priya's account | Priya and members: someone else could change or switch off the app | Unknown whether it has moved | Fix | Tuesday 13 October 2026 |
 | 5 | The way back is written but never tried, and only Priya can put up the back soon page | Every member if something goes wrong while Priya is away | Not tried | Fix | Friday 9 October 2026 |
@@ -36,7 +36,7 @@ Order confirmed by Priya: keep it, with the cancelled member first. Nothing miss
 ## 2. A Gumroad sale notice is trusted without asking Gumroad
 
 - **Why it matters:** the app lets someone in when a notice arrives at its private address naming Chilli's product. Gumroad does not sign its notices, so anyone who learned the address could let someone in without paying.
-- **The plan:** build the check that asks Gumroad about each sale, and try it with test sales by Sunday 18 October 2026, so Monday 19 October 2026 is only the real try. This was Claude's suggestion and Priya took it.
+- **The plan:** build the check that asks Gumroad about each sale, and try it with test sales by Sunday 18 October 2026, so Monday 19 October 2026 is only the real try, a real purchase on the live product. This was Claude's suggestion and Priya took it.
 - **Rule:** the doors stay shut until the real try passes.
 - **Unknown:** whether a real Gumroad product exists yet, and what the check needs from it.
 
