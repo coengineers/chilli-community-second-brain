@@ -1,6 +1,6 @@
 # Week 14: Make it yours
 
-1 October 2026.
+1 October 2026. Simulated for the course.
 
 ## What I made
 - My app, Chilli Community, on its test address (not yet online for the public), in my Chilli look with my words on Home. It was built in Claude Code on the web and I looked at it on my phone.
@@ -33,7 +33,6 @@ Not on a task list, at my say-so. Listed in the chat, mine:
 
 ## Still open
 - Home opening on this week's job: to be decided in Week 15. Not changed today.
-- Whether Home after sign-in can be seen on the test address at all depends on the database, which is not connected yet.
 
 ## Records
 - The app map, with a dated "What changed": `product/app-map.md`
