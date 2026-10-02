@@ -11,9 +11,9 @@ Last changed: 21 October 2026 (Week 24). Private. This is the plan you follow ea
 
 ## Where you publish first
 
-The Chilli playlist on the CoEngineers YouTube channel and Instagram, with the same moment on both. You make each moment once: a short video with the written version in its description, and the same photo or clip with a shorter caption on Instagram.
+Instagram first. The same moment then goes on the Chilli playlist on the CoEngineers YouTube channel. You make each moment once: the photo or clip with a short caption for Instagram, and the same short video with the written version in its description for the playlist.
 
-- Decided: Priya, 21 October 2026. Priya's own view: this is really two places, made from one piece.
+- Decided: Priya, 21 October 2026. Instagram is the one place she publishes first; the playlist is second, made from the same piece.
 - Testing: that these are the right places for beginners.
 - Unknown: whether anyone sees it.
 - Forums come later, if at all. Their rules ban links and pitching, so they could never carry the ask.
@@ -90,4 +90,4 @@ Nothing posted yet.
 
 ## Changes
 
-- 21 October 2026 (Week 24): built from real moments and Priya's real hours. Three hours a week, two posts, the Chilli playlist and Instagram as the first place, and eight posts planned from Monday 26 October 2026. Week one of the pilot opened on Monday 19 October 2026.
+- 21 October 2026 (Week 24): built from real moments and Priya's real hours. Three hours a week, two posts, Instagram as the first place and the Chilli playlist second, and eight posts planned from Monday 26 October 2026. Week one of the pilot opened on Monday 19 October 2026.

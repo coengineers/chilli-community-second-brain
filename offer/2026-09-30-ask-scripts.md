@@ -68,7 +68,7 @@ The full wording of the promise, if someone asks: cook the recipe, watch the vid
 - **May mean:** "Will I spend money on kit and get nothing back?"
 - **Honest answer:** "There's nothing else to buy: no propagator, no grow light. £8 a month is less than the cheapest grow kit I found, £13.35, and the recipes are worth cooking with shop chillies anyway."
 
-### "What if I kill it?" (Nadia and Jo both asked this)
+### "What if I kill it?" (Megan and Jo both asked this)
 - **May mean:** "I've failed before, and I don't want to fail again, paying for it."
 - **Honest answer:** "I can't promise you a harvest, and I won't. What I can promise: a recipe, a video and a job every week, other beginners alongside you, and your first month back if it hasn't helped."
 
