@@ -59,3 +59,11 @@ Counted the same way every week in the review.
 
 - 24 September 2026: first plan, drafted from the second brain in the first weekly review. The goal and the measures' targets are Testing, yours to confirm.
 - 22 October 2026: replaced by the Week 26 plan (`business/2026-10-01-90-day-plan.md`). The goal is now 20 paying members by the end of March 2027, with 10 paying founding members by 19 January 2027 as the 90-day mark. This plan stays as the record of the first draft.
+
+## Week 26 record
+
+Six invited, four joined at £8 a month: Nadia, Megan, Jo and Tom. By Wednesday 21 October, Megan and Jo had not opened the app.
+
+Priya published "The plants I bought in September" on Instagram, the first place she chose, on Wednesday 28 October. By Saturday 31 October it had 19 likes, four comments and one message.
+
+See [the dated 90-day plan](2026-10-01-90-day-plan.md).

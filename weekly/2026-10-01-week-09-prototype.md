@@ -8,7 +8,7 @@ A test pack of three tasks for three testers: [product/2026-10-01-prototype-test
 
 ## Check-in
 
-Priya presented the deck to Dan and Lucy on a video call and scored it 7 out of 10. She rehearsed it in 2 minutes 20 seconds and cut a slide. Lucy asked when it starts. The start date is Unknown in the offer.
+Priya presented the deck to Dan and Lucy on a video call and scored it 7 out of 10. She rehearsed it in 2 minutes 20 seconds and cut a slide. On Friday 2 October the cut deck ran 1 minute 52 seconds. Lucy asked when it starts. The start date is Unknown in the offer.
 
 No contact notes or task list were touched this week; commitments are held in the chat only.
 

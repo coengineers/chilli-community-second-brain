@@ -9,7 +9,8 @@
 - The answer to my question.
 
 ## Decisions I made
-- **Hard question:** "What stands between me and asking people to pay?"
+- **My hard question:** “When your chilli plant went wrong, what did you do next?”
+- I asked my notes what stands between me and asking people to pay.
 - **The four areas of the app** (Home, Recipes, Videos, Community) stay Decided, with my paper sketch as a second source.
 - **The weekly set** is now one recipe, one short video and one community post with a small job inside. The small job is the challenge. It stays Testing.
 - **£8 a month through Gumroad** stays Decided. **10 to 20 founding members** stays Testing.
@@ -30,3 +31,10 @@ Claude's view: agreed on the first, second and fourth. The third was only partly
 - The Summary, updated: `business/2026-09-30-business-snapshot.md`
 - The decisions list, with dated lines: `business/DECISIONS.md`
 - The answer: `business/2026-09-30-answer-asking-people-to-pay.md`
+
+## What they said
+
+- Tom H. · “Watered it more. Then less. Someone said they like steam, so it went in the bathroom. Still no flowers. I’ve stopped looking at it.”
+- Aisha · “Nothing. It’s still on my kitchen windowsill, brown and crispy. I didn’t even ask the group, and I run the group.”
+
+Priya kept "what a beginner does after a plant dies" as Unknown, because two answers are not proof. She took both into Week 4: people who feel daft asking for help need a calm, friendly look, not an expert one.

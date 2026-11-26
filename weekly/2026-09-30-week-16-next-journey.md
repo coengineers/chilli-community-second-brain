@@ -12,23 +12,23 @@
 - **The steps:** post, see everyone's posts, add a chilli, photos only, remove my own post. Confirmed as drafted.
 
 ## Check-in
-The connected task list is not Chilli's, so there was nothing to check. Nothing was changed there. Nadia's sign-out and sign-back-in try from Week 15 is still open.
+The connected task list is not Chilli's, so there was nothing to check. Nothing was changed there. Nadia ticked all three, signed out and back in, and her ticks were still there.
 
 ## Self-check
 My ratings:
-- The first journey still works: partly. I have not tried it again since the build.
+- The first journey still works: Tom tried both journeys on his phone. He finished both without help.
 - A member can finish the new one without help: yes (Tom did).
 - What stays private is private: partly. I have not tried the signed-out photo address or the chilli rule.
 
-Claude's view: agreed on the second; "partly" on the other two until seen. Improvement: try the signed-out photo address, and the chilli tap, reload and tap again. I chose to do it.
+Claude's view: agreed on the second; "partly" on the privacy check until seen. Improvement: try the signed-out photo address, and the chilli tap, reload and tap again. I chose to do it.
 
 ## Commitments
 Not in the task list, at my say-so. Listed in the chat, mine:
 - Try the weekly post checks: open Tom's photo address signed out, and tap, reload and tap a chilli as another member. Category: product. Due date to be confirmed by Priya.
-- Try This week with Nadia (from Week 15): tick all three, sign out, sign back in and say what she sees. Category: product. Due Friday 2 October 2026 (to be confirmed by Priya).
+- Nadia’s Week 15 check, Friday 2 October 2026: “Signed out, signed back in. All three still ticked.”
 
 ## Still open
-- The two tries above, and Nadia's.
+- The two weekly post checks above.
 - Removing a post and the connection-drop message: not tried.
 - Whether it was checked on the test address or only on the practice copy: Unknown.
 - Payments and access are Week 17.
@@ -37,3 +37,10 @@ Not in the task list, at my say-so. Listed in the chat, mine:
 - The plan: `product/2026-09-30-plan-the-challenge.md` (the weekly post)
 - The check: `product/2026-09-30-check-the-challenge.md` (the weekly post)
 - This summary: `weekly/2026-09-30-week-16-next-journey.md`
+
+## What Tom said
+
+- Tom H. · “Found the job straight off this time. Ticked.”
+- Tom H. · “That’s him, on the bathroom windowsill. Still no flowers. Can everyone see this, or just the club?”
+
+Priya added one line under the post button: "Only Chilli members see your photo."

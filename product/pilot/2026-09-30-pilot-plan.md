@@ -4,7 +4,7 @@ Week 21, Open the pilot. Written 30 September 2026. Private: names only. Email a
 
 Built from `offer/OFFER.md` (version 6), `product/PRD.md`, `product/2026-10-01-launch-record.md`, `product/2026-10-01-weak-spots.md` and `growth/2026-09-30-warm-list.md`.
 
-- **Pilot status:** Not open yet. Nobody has been invited and nobody has paid.
+- **Pilot status:** Six invited, four joined at £8 a month: Nadia, Megan, Jo and Tom. By Wednesday 21 October, Megan and Jo had not opened the app.
 - **The pilot page (private, in Priya's Claude account):** https://claude.ai/artifact/QgcJksLESbm8oKr194iABP
 
 ## Size and dates
@@ -14,7 +14,7 @@ Built from `offer/OFFER.md` (version 6), `product/PRD.md`, `product/2026-10-01-l
 - **Starts:** Monday 19 October 2026, the day the doors open and week one opens.
 - **Ends:** Sunday 29 November 2026.
 - **First-month promise runs to:** Sunday 15 November 2026, the end of week four.
-- **Price and payment:** £8 a month, held for as long as the member stays, paid through Gumroad. The price is Testing: nobody has been asked about a price in a real ask yet. The Gumroad product is created on Monday 19 October 2026.
+- **Price and payment:** £8 a month, held for as long as the member stays, paid through Gumroad. Six invited, four joined at £8 a month: Nadia, Megan, Jo and Tom. The Gumroad product is created on Monday 19 October 2026.
 
 ## The six weeks
 
@@ -31,7 +31,7 @@ Built from `offer/OFFER.md` (version 6), `product/PRD.md`, `product/2026-10-01-l
 
 | Measure | Where the number comes from | Target | So far |
 |---|---|---|---|
-| Founding members who have joined | Gumroad's sales list, and the members list in Priya's area of the app | 10 to 20 members | Not yet measured |
+| Founding members who have joined | Gumroad's sales list, and the members list in Priya's area of the app | 10 to 20 members | 4 |
 | Members who did the recipe, the video and the job | The ticks the app saves each week | At least half of members complete all three | Not yet measured |
 | Members who post on the weekly post | Posts in the app | At least a third of members post in a week | Not yet measured |
 
@@ -58,7 +58,7 @@ Six people. Names only. Nadia, Megan and Jo said yes at £8 a month in the Week 
 | Jo | Said yes (practice answer) | Mon 19 Oct 2026 |
 | Tom | Said not now, after the summer | Mon 19 Oct 2026, after my check-back |
 | Dee | Said not now, money was tight | Mon 19 Oct 2026, after my check-back |
-| Ali | Asked, no reply yet | Mon 19 Oct 2026, once he replies |
+| Ali | Asked, no reply yet | Mon 19 Oct 2026; no reply |
 
 ## What opens the pilot
 
@@ -88,10 +88,21 @@ Confirmed by Priya, 30 September 2026.
 
 ## Unknown
 
-- Whether anyone will pay. Nobody has paid.
-- Whether Tom, Dee and Ali want a place.
 - Whether both real addresses open and show the latest version. Not checked from the lab.
 
 ## What changed
 
 - 30 September 2026: new plan for Chilli Community, six weeks from Monday 19 October to Sunday 29 November 2026.
+
+## Week one
+
+- Tom H. · “Summer’s long gone, isn’t it? Go on then. Send me the link Monday.”
+- Dee · “Still can’t, sorry. The boiler went last week. Ask me again in January?”
+- Nadia S. · “Joined! Kitchen windowsill’s cleared.”
+- Megan R. · “I’m in. Terrified. Let’s go.”
+- Jo · “Done. Can you give me a nudge on Tuesdays? I’m at work till nine on Mondays and I’ll forget.”
+- Tom H. · “In. The bathroom chilli says hello.”
+
+Ali · no reply to the chase on Friday 2 October or the invitation on Monday 19 October.
+
+The one change for round two came from Jo's words: from Tuesday 27 October, Priya texts every member herself on Tuesday morning. Dee has a check-back in January.

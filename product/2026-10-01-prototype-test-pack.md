@@ -57,7 +57,7 @@ Fifteen minutes each.
 | Tester | Who | Date |
 | --- | --- | --- |
 | Nadia | Has tried chillies on a windowsill | Thu 1 Oct |
-| Tom | Has a grow kit | Sat 3 Oct |
+| Tom | Bought a garden-centre plant | Sat 3 Oct |
 | Jo | Home cook who has never grown chillies. She has heard the £8 ask, so this is a second look, not a clean first one. | Sun 4 Oct |
 
 ## Notes page (fill in within the hour of each test)

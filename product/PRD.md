@@ -10,7 +10,7 @@ This is a living plan. The building weeks read its headings, so keep them as the
 
 UK beginners who bought a chilli plant, killed it and think they are not a plant person, and beginners who never started, such as Megan R. Windowsill, balcony, garden and greenhouse are where they grow, not separate customers.
 
-- Who first: the first 10 to 20 founding members, up to 20 places, paying through Gumroad. The first three in, if they confirm by Wednesday 7 October 2026, would be Nadia, Megan and Jo, who said yes at £8 a month. Status: Decided. Source: Priya, 1 October 2026; the offer, "Limits and deadlines"; the Week 12 decision.
+- Who first: the first 10 to 20 founding members, up to 20 places, paying through Gumroad. Nadia, Megan and Jo confirmed before Wednesday 7 October 2026. Status: Decided. Source: Priya, 1 October 2026; the offer, "Limits and deadlines"; the Week 12 decision.
 - The one thing a member must be able to do in week one: sign in and find this week's recipe, video and job in one place. Status: Decided. Source: Priya, 1 October 2026.
 
 Not for version 1: anyone who wants seeds, plants or a box posted to them.
@@ -27,7 +27,7 @@ Source: the offer, version 6, "Their problem, in their words". Permission from a
 
 ### The decision behind it
 
-The Week 12 call is Go: three of eight people asked said yes at £8 a month (Priya, 1 October 2026). It is an early signal, not proof. Nobody has paid, the launch date is Unknown, and whether anyone will pay for a chilli-only membership is Unknown. The paid pilot still waits for Ed's review of the app.
+The Week 12 call is Go: three of eight people asked said yes at £8 a month (Priya, 1 October 2026). It is an early signal, not proof. At the Week 12 decision, nobody had paid. Week one opens Monday 19 October. The paid pilot still waits for Ed's review of the app.
 
 ## What version 1 does (the features)
 
@@ -41,7 +41,7 @@ Each part of the offer's "What they get" is placed once: in the base app, in ver
 | Start where you are | By hand | Priya writes it into the first weeks: cooking first, not sowing, so autumn is not a reason to wait. | Testing |
 | A friendly community, with the weekly post (from the weekly set, not one of the five parts) | New, feature 2 | The weekly post: a member shares a photo of their plant, other members see it and can add a chilli. Only signed-in members see posts. | Testing |
 | The first-month promise | By hand | A member tells Priya, and Priya refunds the first month in Gumroad. Payments and access (Week 17) makes sure a refunded sale no longer lets them in. | Testing |
-| Only paying members get in (from the paid pilot decision, not a line of the offer) | Payments and access, Week 17 (not a feature) | Payments stay a Gumroad link. A Gumroad purchase lets the member in on its own, and Priya adds founding members by hand with a free Gumroad code. No purchase, no way in; a refund ends access. | Testing |
+| Only paying members get in (from the paid pilot decision, not a line of the offer) | Payments and access, Week 17 (not a feature) | Payments stay a Gumroad link. A Gumroad purchase lets the member in on its own. No purchase, no way in; a refund ends access. | Testing |
 
 The two features, easiest first, one a week from Week 15: This week, then the weekly post. Each is done when every check passes on the test address and Priya has clicked through it. Payments and access (Week 17) follow, and are not a third feature. Status of both: Decided by Priya, 1 October 2026 (two features, not three).
 
@@ -93,7 +93,7 @@ The two features, easiest first, one a week from Week 15: This week, then the we
 
 ### Payments and access (Week 17, not a feature)
 
-Payments stay a Gumroad link, and Priya adds founding members by hand. Week 17 makes who gets in, and how they pay, work end to end.
+Payments use a Gumroad link. In the Week 13 plan, access and refunds are by hand. In Week 17 a purchase adds the member.
 
 - **Week:** Week 17. **Why this place in the order:** Money and who gets in because of it, another company's service (Gumroad), things that happen on a timetable with nobody clicking, and a founder-only area members must never reach: every harder sign.
 - **Builds on:** Features 1 and 2. Built and checked on 24 September 2026 against Gumroad's documented sale notification format with Gumroad's sample messages only. Connecting the live Gumroad product is a step for Priya.
@@ -106,7 +106,7 @@ Payments stay a Gumroad link, and Priya adds founding members by hand. Week 17 m
 1. As someone who has just bought the founding membership on Gumroad, I want to sign in with the same email and be straight in, so that I can start this week without waiting for Priya.
 2. As Priya, I want to add next week's recipe, video and post and choose when it opens, so that the week is ready before members arrive.
 3. As a member, I want the new week to open on its own, so that I find it without asking.
-4. As Priya, I want only people who have paid, or whom I added by hand, to get in, and anyone refunded to lose access, so that the 20 founding places stay fair.
+4. As Priya, I want only people who have paid to get in, and anyone refunded to lose access, so that the 20 founding places stay fair.
 
 **Checks**
 
@@ -161,7 +161,7 @@ Status: Decided. Source: Priya, 1 October 2026 ("payments stay a Gumroad link, d
 - One plan, one voice: Priya writes the same steps every week, set for a UK windowsill: a windowsill, a pot and what is already in the kitchen. The app shows them.
 - Start where you are: Priya writes it into the first weeks: cooking first, then from seed, a plant kept over winter or a bought plant.
 - Taking payment, receipts, stopping a membership and the founding price held while they stay: Gumroad, as a link.
-- Adding founding members: Priya adds each one by hand with a free Gumroad code.
+- Week 13: access and refunds are by hand. Week 17: a purchase adds the member.
 - The first-month promise: a member tells Priya, and Priya refunds the first month in Gumroad by hand.
 - Telling people the start date and inviting founding members: Priya, with her own messages. The app sends nothing.
 
@@ -192,15 +192,19 @@ Stretch, only if both features and payments and access are done: checkout on the
 |---|---|---|---|
 | How will members sign in on the real address? Draft: a sign-in link by email (a "magic link") through the base app's identity service. | Members are beginners without GitHub accounts, and the reference setup's GitHub sign-in suits Priya, not them. A link by email also matches the email they bought with on Gumroad. It needs an email-sending service connected first, a step for Priya. | Priya (Draft, Priya to confirm) | Payments and access (Week 17), with email sending set up before go-live (Week 19) |
 | Where will the videos be kept? Draft: in a public video store, not the private files, which take files up to 2 MB. Either a public folder in Chilli's own storage, like the course media, or an unlisted video host. | A three-minute video is many times 2 MB. Chilli's own storage keeps everything in one place, but the base app's cost model budgets only about 1 GB of downloads a month; an unlisted host streams for free but shows its own player. Either way, anyone holding a video's exact link could watch it. | Priya, to choose | Feature 1 (week 15) |
-| Is the weekly post enough of a community for the pilot? | Members share a photo and add a chilli on Priya's weekly post, with no comments. The offer says the community is where the weekly set lives. | Priya, after Megan sees the plan | Feature 2 (Week 16) |
-| When does week one start? | The start date is Unknown in the offer, nobody pays before week one opens, and the first scheduled week needs a date. | Priya | Payments and access (Week 17) |
+| Is the weekly post enough of a community for the pilot? | Members share a photo and add a chilli on Priya's weekly post, with no comments. The offer says the community is where the weekly set lives. | Nadia S. saw the plan. So the weekly post stayed. | Feature 2 (Week 16) |
+| When does week one start? | Week one opens Monday 19 October. Nothing is taken before then. | Priya | Payments and access (Week 17) |
 | When a member stops paying, when does their access end? Draft: at the end of the month they paid for. | The offer says stop any time. Gumroad tells the app when a membership ends, and payments and access needs the rule. | Priya (Draft, Priya to confirm) | Payments and access (Week 17) |
 
 ## What changed
 
-- 1 October 2026: the plan is built on offer version 6, Windowsill to Plate, after the Week 12 call of Go. Priya confirmed: the first members are the first 10 to 20 founding members, with Nadia, Megan and Jo, who said yes, the first three in if they confirm by 7 October; the one thing in week one is unchanged; the trays as drafted; and the status is Agreed. Version 1 is two features: This week and the weekly post, where a member shares a photo of their plant. Payments stay a Gumroad link, and Priya adds founding members by hand. Removed: the rescue card page and its done test, because offer version 6 cut it; the windowsill starter list; and Past weeks, which now waits because none of the five parts of the offer promises it. Done test B (refunded so out) has a second member who still gets in, at Claude's suggestion.
+- 1 October 2026: the plan is built on offer version 6, Windowsill to Plate, after the Week 12 call of Go. Priya confirmed: the first members are the first 10 to 20 founding members, with Nadia, Megan and Jo, who said yes, all three confirmed before 7 October; the one thing in week one is unchanged; the trays as drafted; and the status is Agreed. Version 1 is two features: This week and the weekly post, where a member shares a photo of their plant. Payments stay a Gumroad link, and Priya adds founding members by hand. Removed: the rescue card page and its done test, because offer version 6 cut it; the windowsill starter list; and Past weeks, which now waits because none of the five parts of the offer promises it. Done test B (refunded so out) has a second member who still gets in, at Claude's suggestion.
 - 30 September 2026: earlier versions of this plan, built on offer versions 3 and 4, were replaced by the entry above.
 - 23 September 2026: first version, from the offer (version 2), the Retest recommendation, the prototype and the evidence pack. The three pieces and their order are Priya's (Priya, 23 September: "three specific features, epics done each week by complexity").
 - 23 September 2026: This week planned, built and checked: Ready to fold in.
 - 23 September 2026: the weekly post (then called the windowsill challenge) planned, built and checked: Ready to fold in. It is now feature 2.
 - 24 September 2026: payments and access (then called members and publishing) planned, built and checked with sample messages: Ready to fold in. It is now Week 17, not a feature.
+
+## What Nadia said
+
+- Nadia S. · “The weekly post. Seeing how everyone else’s plants are doing is the bit I’d open every week.”

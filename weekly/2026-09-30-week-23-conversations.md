@@ -37,26 +37,21 @@ Not in a task list. Held as my own dated tasks, all mine to send from my own pho
 | Send message 1 to Chloe | WhatsApp | Mon 26 Oct 2026 |
 | Send message 1 to Owen | WhatsApp | Mon 26 Oct 2026 |
 | Send message 1 to Luca | Text | Mon 26 Oct 2026 |
-| Send message 2 to Ravi | WhatsApp | Tue 27 Oct 2026 |
 | Send message 2 to Beth | WhatsApp | Wed 28 Oct 2026 |
-| Send message 2 to Aisha | Text | Wed 28 Oct 2026 |
 | Send message 2 to Chloe | WhatsApp | Thu 29 Oct 2026 |
 | Send message 2 to Grace | Text | Thu 29 Oct 2026 |
 | Send message 3 to Hannah | WhatsApp | Fri 30 Oct 2026 |
 | Send message 2 to Owen | WhatsApp | Fri 30 Oct 2026 |
-| Send message 3 to Ravi | WhatsApp | Mon 2 Nov 2026 |
 | Send message 2 to Luca | Text | Mon 2 Nov 2026 |
 | Send message 3 to Beth | WhatsApp | Tue 3 Nov 2026 |
 | Send message 3 to Chloe | WhatsApp | Wed 4 Nov 2026 |
 | Send message 3 to Owen | WhatsApp | Thu 5 Nov 2026 |
-| Send message 3 to Aisha | Text | Thu 5 Nov 2026 |
 | Send message 3 to Grace | Text | Fri 6 Nov 2026 |
 | Send message 3 to Luca | Text | Mon 9 Nov 2026 |
 
-The Week 22 asks to Hannah, Ravi, Beth, Chloe and Owen fall on Mon 26, Tue 27, Wed 28, Thu 29 and Fri 30 October 2026 (these are the same days as their message 2).
+The Week 22 asks to Hannah, Ravi, Beth, Chloe and Owen fall on Mon 26, Tue 27, Wed 28, Thu 29 and Fri 30 October 2026. Priya asked Ravi in her own words on the day she had set.
 
 ## Still open
-- Nobody has been messaged yet. Every reply I get goes in my notes on that person, in their words.
 - Whether Fatima's followers grow chillies: Unknown. Marcus and Fatima are kept for a later round.
 - My own windowsill photo goes on the page when I attach it. Until then the page shows an illustrative stand-in.
 - The pilot opened on Monday 19 October 2026, so message 2 says it has opened and there are places left.
@@ -66,3 +61,10 @@ The Week 22 asks to Hannah, Ravi, Beth, Chloe and Owen fall on Mon 26, Tue 27, W
 - This summary: `weekly/2026-09-30-week-23-conversations.md`
 
 Next is Week 24, Content system.
+
+## Who replied
+
+- Aisha · “Most of us, me included. Send me two lines and I’ll put them in the group tonight. Nothing that reads like an advert or they’ll mute me.”
+- Ravi · “Three came up and now they’re all leaning at the window like they want to get out. Is that bad?”
+
+Both replies ended those two series. The other six carried on. Priya answered each as a person: Aisha got the two lines that afternoon, and Ravi got "turn the pot every day and move it to your brightest window". She asked Ravi about a founding place in her own words on Tuesday 27 October, the day she had set.

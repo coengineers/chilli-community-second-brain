@@ -12,12 +12,12 @@
 - **The steps:** the recipe, the video, the job, the ticks, then phone and trouble. Agreed as drafted.
 
 ## Check-in
-The Week 14 task, fixing the button text and the wordmark and looking again on my phone, is done. Score 8 out of 10: both look better. It was not in the task list, at my say-so.
+Home should open on this week’s job. The orange button is easy to find. The Chilli wordmark looks right.
 
 ## Self-check
 My ratings:
 - A member can finish it without help: yes (Nadia found the job first time).
-- It matches the done test in the plan: partly. Nobody has checked yet that the ticks are still there after signing out and back in.
+- It matches the done test in the plan: the ticks are still there after signing out and back in.
 - Checked on a phone: yes.
 - I decided what right means before it was built: yes.
 
@@ -29,7 +29,6 @@ Not in the task list, at my say-so. Listed in the chat, mine:
 - Check with a second member account that Nadia's ticks are not visible. Category: product. Due Friday 2 October 2026.
 
 ## Still open
-- Ticks after sign-out and sign-back-in: not checked.
 - Whether the check was on the test address or a practice copy: Unknown.
 - Which unlisted video site: To be decided.
 - The next pieces are Weeks 16 and 17.
@@ -38,3 +37,10 @@ Not in the task list, at my say-so. Listed in the chat, mine:
 - The plan: `product/2026-10-01-plan-this-week.md`
 - The check: `product/2026-10-01-check-this-week.md`
 - This summary: `weekly/2026-10-01-week-15-first-journey.md`
+
+## What Nadia said
+
+- Nadia S. · “Top of the screen. Show your windowsill. Easy.”
+- Nadia S. · “Signed out, signed back in. All three still ticked.”
+
+Nothing to fix. Priya kept Home opening on this week's job and marked the ticks line of the done test as met.

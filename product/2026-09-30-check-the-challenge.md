@@ -11,14 +11,14 @@ This records what Priya told Claude after building the weekly post in Claude Cod
 - Whether a chilli tap, a reload and a second tap give 1, then 1, then 0: not tried yet. Unknown.
 - Whether the exact address of a photo shows no photo to a signed-out visitor: not tried yet. Unknown.
 - Removing a post, and the connection-drop message: not tried yet. Unknown.
-- Nadia's sign-out and sign-back-in try on This week is still open, so the first journey is checked only as far as Priya has seen it.
+- Signed out, signed back in. All three still ticked. (Nadia S., Friday 2 October.)
 - Whether it was checked on the test address or only on the practice copy: Unknown.
 
 ## Priya's ratings against the criteria
 
 | Criterion | Priya | Claude's view |
 |---|---|---|
-| The first journey still works | Partly (changed from Yes after Claude's view). Priya has not yet tried it again after the build, and Nadia's try is open. | Partly until seen. |
+| The first journey still works | Tom tried both journeys on his phone: This week first, then the weekly post. | He finished both without help. |
 | A member can finish the new one without help | Yes. Tom finished it without help. | Agreed. |
 | What stays private is private | Partly (changed from Yes after Claude's view). The signed-out photo address and the chilli rule have not been tried. | Partly until seen. |
 
@@ -31,7 +31,13 @@ Try two things before calling the weekly post checked, and say what you see:
 ## Still open
 
 - The two tries above (task below).
-- Nadia's sign-out and sign-back-in try on This week (from Week 15).
 - Removing a post, and the connection-drop message.
 - Which place this was checked in.
 - Payments and access are not started.
+
+## What Tom said
+
+- Tom H. · “Found the job straight off this time. Ticked.”
+- Tom H. · “That’s him, on the bathroom windowsill. Still no flowers. Can everyone see this, or just the club?”
+
+Priya added one line under the post button: "Only Chilli members see your photo."

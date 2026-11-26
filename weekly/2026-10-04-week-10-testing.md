@@ -6,7 +6,11 @@ A findings page that lays the three tests side by side: https://claude.ai/artifa
 
 ## Check-in
 
-All three tests happened, on the planned dates. Scores out of 10, given by Priya: Nadia 7 (Thu 1 Oct), Tom 5 (Sat 3 Oct), Jo 5 (Sun 4 Oct). Their own words, their answers to the two closing questions and anything said about price are Unknown: Priya could not remember them.
+All three tests happened, on the planned dates. Scores out of 10, given by Priya: Nadia 7 (Thu 1 Oct), Tom 5 (Sat 3 Oct), Jo 5 (Sun 4 Oct). Their answers to the two closing questions and anything said about price are Unknown.
+
+- Nadia S. · “Is the job in your post? Oh. There it is.”
+- Tom H. · “Where's the job? I've been into Recipes twice.”
+- Jo · “I thought the post was just people chatting. I'd never have looked in there for a job.”
 
 ## Decided this week
 

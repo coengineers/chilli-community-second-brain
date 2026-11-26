@@ -34,3 +34,11 @@ Not on a task list. Listed in the chat, all mine:
 ## Records
 - The decision: `offer/2026-10-01-decision.md`
 - The offer, with a dated "What changed": `offer/OFFER.md`
+
+## When Priya asked them to confirm
+
+- Nadia S. · “Still in. Tell me the day and I'll clear the windowsill.”
+- Megan R. · “Yes. I've already bought a pot. Is that jumping the gun?”
+- Jo · “Yes please. I've read the bit about getting my first month back if it dies, so no excuses.”
+
+All three confirmed before Wednesday 7 October, so the call stayed Go. Each heard the start date from Priya first: week one opens Monday 19 October.

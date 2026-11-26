@@ -15,7 +15,7 @@ Thursday 22 October 2026.
 - **The video:** six parts, recorded by me in one take on Sunday 15 November 2026.
 
 ## Check-in
-Nothing yet from the Week 25 post. It is due Wednesday 28 October 2026 and "Capture this week's moments" is due Sunday 25 October 2026. Tasks stay in this chat only, so nothing was read from or changed in the task list.
+Priya published "The plants I bought in September" on Instagram, the first place she chose, on Wednesday 28 October. By Saturday 31 October it had 19 likes, four comments and one message.
 
 ## Self-check
 My ratings:
@@ -40,12 +40,11 @@ Not in the task list. Held as my own dated tasks in this chat, all mine to do.
 Earlier dates still stand, including the first post on Wednesday 28 October 2026.
 
 ## Still open
-- Four members joined the pilot at £8 a month (simulated for the course), so the count starts at 4.
+- Six invited, four joined at £8 a month: Nadia, Megan, Jo and Tom. By Wednesday 21 October, Megan and Jo had not opened the app.
 - The review has not been timed. The first one is Friday 23 October 2026.
 - The weekly review is not set up as a scheduled task.
 - The photo on both pages is an illustrative stand-in until I attach my own.
-- Chilli went live on Tuesday 13 October 2026 and the doors opened on Monday 19 October 2026, as Priya reports. Neither address has been checked from another phone.
-- Which four of the six people invited joined the pilot is not recorded here.
+- Chilli went live on Tuesday 13 October 2026 and the doors opened on Monday 19 October 2026, as Priya reports. Jo repeated the fixed steps on her own phone, the day after going live.
 
 ## Records
 - The 90-day plan: `business/2026-10-01-90-day-plan.md`
@@ -53,3 +52,11 @@ Earlier dates still stand, including the first post on Wednesday 28 October 2026
 - This summary: `weekly/2026-10-01-week-26-operating-system.md`
 
 That is the programme. My weekly review starts on Friday 23 October 2026.
+
+## The video
+
+Priya recorded the journey video in one take on Sunday 15 November: 2 minutes 45 seconds, six parts. She posted it on the Chilli playlist and sent it to Jo on WhatsApp that evening.
+
+- Jo · “Watched it on the bus. ‘Not a plant person’, that’s me. When you first read me your line I said it was for my dad. Can I send it to my sister?”
+
+Priya said yes. Jo's sister (new person: Jo's sister, a lead through Jo) went on the warm list for the second round of asks on Friday 20 November.

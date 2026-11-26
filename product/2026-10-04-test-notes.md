@@ -1,13 +1,13 @@
 # Prototype test notes (Week 10)
 
-Prototype: Windowsill to Plate, a clickable member app with four areas (Home, Recipes, Videos, Community). Three testers, the same three tasks. Everything below is from Priya's own account of the tests, given in the Week 10 lab on 1 October 2026. The task list was not used: the connected one is not Priya's. Scores are Priya's, out of 10.
+Prototype: Windowsill to Plate, a clickable member app with four areas (Home, Recipes, Videos, Community). Three testers, the same three tasks. Everything below is from Priya's own account of the tests, given in the Week 10 lab. The task list was not used: the connected one is not Priya's. Scores are Priya's, out of 10.
 
 ## Testers
 
 | Tester | Who | Date | Score |
 | --- | --- | --- | --- |
 | Nadia | Has tried chillies on a windowsill | Thu 1 Oct 2026 | 7 |
-| Tom | Has a grow kit | Sat 3 Oct 2026 | 5 |
+| Tom | Bought a garden-centre plant | Sat 3 Oct 2026 | 5 |
 | Jo | Home cook who has never grown chillies | Sun 4 Oct 2026 | 5 |
 
 ## What each person did
@@ -27,9 +27,14 @@ Prototype: Windowsill to Plate, a clickable member app with four areas (Home, Re
 - Jo did not reach the photo step. The reason is Unknown. Priya will ask Jo herself. (Testing.)
 - Tom chose the video first while Nadia and Jo chose the recipe. A different choice, not a problem. (Testing.)
 
+## What they said
+
+- Nadia S. · “Is the job in your post? Oh. There it is.”
+- Tom H. · “Where's the job? I've been into Recipes twice.”
+- Jo · “I thought the post was just people chatting. I'd never have looked in there for a job.”
+
 ## Unknown
 
-- What each person said while testing, in their own words.
 - Their answers to "What do you think this is for?" and "What got in your way?"
 - Anything said about price without being asked.
 - Why Jo stopped before the photo step.
