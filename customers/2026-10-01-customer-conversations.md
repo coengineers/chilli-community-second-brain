@@ -47,4 +47,4 @@ What got in the way: fear of killing it. Priya confirmed this stops people start
 
 ## What has not been asked
 
-Nobody has been asked about a price. The founding price Priya is thinking of is £8 a month through Gumroad.
+In these three Week 5 conversations nobody was asked about a price. The founding price Priya is thinking of is £8 a month through Gumroad.

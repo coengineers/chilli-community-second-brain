@@ -1,6 +1,6 @@
 # Setup session
 
-**Simulated for the course.** These are Chilli's results for this week. They are made up for teaching, so every page and screen that shows them carries this label. When Priya does the step for real, this file is replaced.
+Example. Use only for practice.
 
 ## What happened
 
@@ -8,4 +8,11 @@ Chilli's app copy, database and hosting were set up in one sitting; the app map 
 
 ## People
 
-The cast is the same every week: see `simulated/README.md`.
+Priya · Megan R.
+
+## Example dialogue
+
+- Megan R. · “So I sign in and it's my name and a photo button? Where are the chillies?”
+  on Priya's phone at the test address
+
+- What changed · Priya put "Home must say what a member gets" on her list for Week 14. She changed the app map's test address line from kept closed to open, to match what Megan saw.

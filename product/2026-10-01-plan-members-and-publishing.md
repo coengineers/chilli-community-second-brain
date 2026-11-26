@@ -1,11 +1,11 @@
 # Plan: Payments and access
 
-Chilli Community. 1 October 2026. Status: Agreed by Priya, 1 October 2026. Week 17. Not a third feature: version 1 has two features, This week and the weekly post. Payments stay a Gumroad link, and Priya adds founding members by hand. This plan covers who gets in and when access ends.
+Chilli Community. 1 October 2026. Status: Agreed by Priya, 1 October 2026. Week 17. Not a third feature: version 1 has two features, This week and the weekly post. A payment lets a member in, and they stay in for the month they paid for. This plan covers who gets in and when access ends.
 
 Past weeks are out of this plan, because the product plan puts them on hold for version 1: last week simply stops showing to members and is kept, not deleted. The rescue card is not here, because offer version 6 cut it.
 
 ## The feature in one line
-Paying on Gumroad lets a member in on their own. A refund or cancel ends their access. Priya adds each week and chooses when it opens. Used by founding members and by Priya.
+Paying on Gumroad lets a member in on their own. A refund ends access on the next reload. A cancellation ends it at the end of the month paid for. Priya adds each week and chooses when it opens. Used by founding members and by Priya.
 
 ## The done tests (Priya, 1 October 2026, confirmed as drafted)
 - **Bought, so in.** Start: someone has bought on Gumroad. Do: sign in with the same email. See: this week straight away.
@@ -40,11 +40,10 @@ Paying on Gumroad lets a member in on their own. A refund or cancel ends their a
 2. Create and publish the Gumroad product on Monday 19 October 2026, with the first-month promise.
 3. Connect the live Gumroad product to the app.
 4. Set up the email service that sends sign-in links, before go-live.
-5. Add founding members with a free Gumroad code.
-6. Give first-month refunds in Gumroad when someone asks.
-7. Send every invitation herself.
-8. End cancelled members at the end of the month they paid for.
-9. If a paid member is not let in, check the sale in Gumroad and tell Claude.
+5. Give first-month refunds in Gumroad when someone asks.
+6. Send every invitation herself.
+7. End cancelled members at the end of the month they paid for.
+8. If a paid member is not let in, check the sale in Gumroad and tell Claude.
 
 Nobody buys, cancels or refunds anything while checking. Checks use Gumroad's sample messages only.
 

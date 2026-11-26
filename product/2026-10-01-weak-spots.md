@@ -12,7 +12,7 @@ Six weak spots, ranked by harm to members with security first. The worst, a canc
 
 | # | Weak spot | Who it affects | State | Call | Date |
 |---|---|---|---|---|---|
-| 1 | A cancelled or never-paid person could still see the week's recipe, video and job | Every paying member: what they paid for open to people who do not pay | Fixed, rechecked by Priya on her phone | Fix | Done |
+| 1 | A cancelled member whose paid month had ended could still see the week's recipe, video and job | Every paying member: what they paid for open to people who do not pay | Fixed, rechecked by Priya on her phone | Fix | Done |
 | 2 | A Gumroad sale notice is trusted without asking Gumroad | Members: a stranger let in without paying could see members' names | Still to do | Fix | Build and try with Gumroad's sample messages by Sunday 18 October 2026. Payment page checked on the live product Monday 19 October 2026. Doors stay shut until it passes. |
 | 3 | The privacy page may not match the live database | Members: their details may be kept somewhere other than what they are told | Unknown | Fix | Wednesday 7 October 2026 |
 | 4 | The app's copy sits under CoEngineers, not Priya's account | Priya and members: someone else could change or switch off the app | Unknown whether it has moved | Fix | Tuesday 13 October 2026 |
@@ -21,7 +21,7 @@ Six weak spots, ranked by harm to members with security first. The worst, a canc
 
 Order confirmed by Priya: keep it, with the cancelled member first. Nothing missed, in her words.
 
-## 1. A cancelled or never-paid person could still see the week's post
+## 1. A cancelled member whose paid month had ended could still see the week's post
 
 - **What it should do:** access ends at the end of the month the member paid for (the plan's draft rule). Anyone who has not paid sees the not-active page and none of the week's content.
 - **The fix:** made in Claude Code on the web. Claude did not see it.

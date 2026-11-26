@@ -10,10 +10,10 @@ Thursday 1 October 2026. Simulated for the course.
 - **Landing page words:** as drafted. The name Windowsill to Plate, the Week 7 headline, the refund line leading with "Kill your chilli plant? Your first month is back.", £8 a month for up to 20 founding places, no start date stated, the one way to join, no quotes or results.
 - **The way back:** try a fix for one hour, then a back soon page. Only I can do it.
 - **Dates:** live on Tuesday 13 October 2026. Doors open on Monday 19 October 2026, separate from going live.
-- **Carrying on with four Week 18 problems:** I said none of the four was serious, so nothing holds the launch. They are still not graded.
+- Priya marked the photo change Failed. It is annoying, not serious, so the doors date held. She fixes it again and Jo tries it before the doors open on Monday 19 October.
 
 ## Check-in
-Tasks stay in this chat only, so nothing was read from or changed in the task list. The Week 18 notes had no What happened section, so I was asked: "Check your payment page" was done, score 8 out of 10, and the join link problem is fixed. The four "Fix or accept" tasks are due Tuesday 6 October 2026 and are not due yet.
+Tasks stay in this chat only, so nothing was read from or changed in the task list. The Week 18 notes had no What happened section, so I was asked: "Check your payment page" was done, score 8 out of 10, and the join link problem is fixed. The photo, chilli and how-to-join fixes carry forward. Step 2 was left on purpose.
 
 ## The six account steps
 All six reported done on my word: web address (nothing bought), addresses connected, app and landing page put there, emails the app sends, how members' details are kept safe, saved copy with a practice restore. Claude saw none of them. I did not say what I saw on each address, whether I checked the London and who-sees-what lines, or how often to repeat the saved copy. See `product/2026-10-01-launch-record.md`.
@@ -34,9 +34,8 @@ Not in the task list, at my say-so. Listed here and in the chat, mine:
 - Open the doors. Who: Priya. Category: admin. Due Monday 19 October 2026.
 
 ## Still open
-- Whether both addresses open and show the latest version from any phone but mine: Unknown.
+- The landing page from a different phone: not checked.
 - Whether the name connections have finished settling: Unknown.
-- The four Week 18 problems: not graded.
 - Whether the privacy page lines match the live database: Unknown.
 - Whether the app's copy has moved into my account: Unknown.
 - How often to repeat the saved copy once real members join: not told.
@@ -47,3 +46,19 @@ Not in the task list, at my say-so. Listed here and in the chat, mine:
 - The launch: `product/2026-10-01-launch-record.md`
 - The landing page: `offer/2026-10-01-landing-page.md`
 - This summary: `weekly/2026-10-01-week-19-live-rerun.md`
+
+## Repeats at the live address
+
+Jo repeated the fixed steps on her own phone, Wednesday 14 October 2026.
+
+| Step | Result |
+|---|---|
+| 1, the join link | Passed |
+| 6, the chilli | Passed |
+| 8, how to join | Passed |
+| 5, the photo | Failed |
+| 2, the cut-off name | Not retested: left on purpose in Week 18 |
+
+"Straight in this time. The chilli goes red when you tap it now. But look, my photo's still on its side."
+
+The photo is annoying, so the doors date holds. I fix it again, and Jo tries it before the doors open.

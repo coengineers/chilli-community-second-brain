@@ -11,7 +11,7 @@
 - **The look:** nothing differs. The app uses the brand kit exactly as it is: my colours, Space Grotesk and Inter, my Chilli Community wordmark, orange on the one main button, leaf green and chilli red on small tags only.
 
 ## Check-in
-The task list connected here is not Chilli Community's, so nothing was read from it or written to it. The one task from Week 13, show the plan to Megan R., is due Wednesday 7 October 2026 and is not overdue.
+Priya showed Nadia S. the plan. In the accounts session, Megan saw the base app.
 
 ## My three notes from my phone
 1. Home should open on this week's job.
@@ -37,3 +37,9 @@ Not on a task list, at my say-so. Listed in the chat, mine:
 ## Records
 - The app map, with a dated "What changed": `product/app-map.md`
 - This summary: `weekly/2026-10-01-week-14-make-it-yours.md`
+
+## What Tom said
+
+- Tom H. · “Very you. Where's the job, though? I couldn't find it on the last one either.”
+
+Priya left Home as it was and took "Home opens on this week's job" to Week 15 as a decision.

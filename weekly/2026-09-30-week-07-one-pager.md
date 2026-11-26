@@ -30,3 +30,9 @@ Still open: the page has a stand-in windowsill picture labelled Illustrative, an
 
 ## Next
 Week 8, Build the offer deck. Bring whatever Aisha K. asks back.
+
+## What Aisha said
+
+- Aisha · “Is it all right if I have no south-facing window?”
+
+She had seen the brand kit in Week 4. The offer was new to her. Her question went onto the page, with an answer.

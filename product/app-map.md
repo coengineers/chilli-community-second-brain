@@ -1,14 +1,14 @@
 # Chilli Community app map
 
-Practice map, made 30 September 2026. Simulated for the course: nothing was signed in to, set up or paid for. Where a thing could not be seen it says Unknown. No key, password or email address is written here.
+Practice map, made 30 September 2026. Simulated for the course: the app, its database and its online home were set up in one sitting. Where a thing could not be seen it says Unknown. No key, password or email address is written here.
 
 The same map as a page: "Chilli Community app map", in your Claude account, private to you (https://claude.ai/artifact/JBhAbdg8RjaXNq7UwGihkJ).
 
 ## At a glance
 
 - **Your app's code:** GitHub, a private copy called chilli-app, made on 23 September 2026 from the CoEngineers base app (v0.1.0-rc.2). Checked: seen private on GitHub on 30 September 2026.
-- **Test address:** chilli-app.pages.dev, on Cloudflare. Unknown (Simulated for the course). Kept closed on 30 September 2026 at your choice, because the app runs on your own computer for now.
-- **Database, sign-in and private photos:** a Supabase project in London, free plan, for UK members. Unknown (Simulated for the course). Your 23 September notes say no project had been made then.
+- **Test address:** chilli-app.pages.dev, on Cloudflare. The test address is open. The app opens on my phone, and I can sign in.
+- **Database, sign-in and private photos:** a Supabase project in London, free plan, for UK members. The app, its database and its online home were set up in one sitting.
 - **Cost today:** £0 planned, on free plans. Unknown (Simulated for the course), not rechecked.
 - **Started from:** base app v0.1.0-rc.2, copied 23 September 2026.
 
@@ -17,7 +17,7 @@ The same map as a page: "Chilli Community app map", in your Claude account, priv
 | Part | Lives on | Owner today | State |
 |---|---|---|---|
 | The app's code | GitHub, private copy called chilli-app | CoEngineers organisation for now. Moves to you in the live session. | Checked |
-| The pages members see | Cloudflare, on the test address | Unknown (Simulated for the course) | Unknown (Simulated for the course) |
+| The pages members see | Cloudflare, on the test address | Unknown | Open on Priya’s phone |
 | The doorway, which checks who is asking | Cloudflare, same address, under /api | Unknown (Simulated for the course) | Unknown (Simulated for the course) |
 | Sign-in, members' details, private photos | A Supabase project in London, free plan | Unknown (Simulated for the course) | Unknown (Simulated for the course) |
 | The Claude connection | Cloudflare, under /api/mcp | Unknown (Simulated for the course) | Not checked yet |
@@ -25,7 +25,7 @@ The same map as a page: "Chilli Community app map", in your Claude account, priv
 
 ## The pages
 
-Read from the descriptions of the changes made on 23 and 24 September 2026. None was opened or clicked through on 30 September 2026.
+Read from the descriptions of the changes made on 23 and 24 September 2026. In the accounts session, the app opens on Priya’s phone, and she can sign in.
 
 - **Sign in:** everyone, before signing in.
 - **Your membership is not active yet:** a signed-in person with no paid membership.
@@ -66,9 +66,9 @@ Only where each one lives. The keys themselves are never written here.
 - **The app's code exists and is private:** Checked. Seen on GitHub on 30 September 2026.
 - **The copy is in your own name:** Not met. It sits under the CoEngineers organisation. You move it in the live session.
 - **The copy has no CoEngineers material:** Not checked yet. It has at least 30 changes of history from 23 and 24 September 2026, and it came from the CoEngineers base app, so the single-start check cannot pass.
-- **The test address loads:** Not checked yet. You kept it closed. Unknown whether it loads.
-- **The database, online home and the links between them:** Unknown (Simulated for the course). Nothing in this session can see Supabase or Cloudflare.
-- **You signed up, added a name, saved and removed a file, signed out and in:** Not checked yet. It needs the test address and the database first.
+- **The test address loads:** the app opens on my phone, and I can sign in.
+- **The database, online home and the links between them:** Unknown (Simulated for the course). The app opens on my phone, and I can sign in. Account ownership is not recorded.
+- **You signed up, added a name, saved and removed a file, signed out and in:** The app opens on my phone, and I can sign in. Saving and removing a file: not checked.
 - **The app in your look, on your phone:** Checked by you on 1 October 2026 (Week 14). You opened it on your phone and said it opens, with your colours and wordmark and your Home words. Claude did not open it.
 
 ## In this chat, and on other sites
@@ -97,7 +97,7 @@ Only where each one lives. The keys themselves are never written here.
 
 ## What comes next
 
-Planned, none of it done.
+Next steps.
 
 - Move the app's copy into your own account, in the live session.
 - Email sending for members' sign-in links, and the real address, before go-live.
@@ -114,3 +114,9 @@ Planned, none of it done.
 
 - 30 September 2026: first version of this map in this file, made in the app setup session. It is a practice map, Simulated for the course.
 - 1 October 2026 (Week 14): the app was built in your look, with your wordmark and your colours and type exactly as the brand kit has them. Home says "One clear thing to do this week." with the line "Your recipe, its short video and one small job for your plant, all in one place." The sign-in page says "Welcome back." with "Sign in to see this week's recipe, video and job." You looked at it on your phone. Home was not changed to open on this week's job: that is a decision for Week 15. Nothing else on this map was rechecked.
+
+## What Megan said
+
+- Megan R. · “So I sign in and it's my name and a photo button? Where are the chillies?”
+
+Home must say what a member gets.

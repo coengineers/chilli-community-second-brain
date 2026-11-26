@@ -34,12 +34,20 @@ Not in a task list. Held as my own dated tasks, both mine to do.
 Earlier dates still stand, including "Capture this week's moments" on Sunday 25 October 2026.
 
 ## Still open
-- Nothing has been posted yet.
 - My own photo of both plants goes in when I post. Until then the page shows an illustrative stand-in.
-- Whether any beginner sees it, or replies: Unknown. The replies will show.
 
 ## Records
 - The moment, the video script, the posts and the card: `growth/content/2026-09-30-plants-bought-in-september.md`
 - This summary: `weekly/2026-09-30-week-25-publish.md`
 
 Next is Week 26, Your weekly operating system. Bring what people said about your post.
+
+## Three days on
+
+Priya published "The plants I bought in September" on Instagram, the first place she chose, on Wednesday 28 October. By Saturday 31 October it had 19 likes, four comments and one message.
+
+- Aisha · “Still the crispy one. Don’t judge me.”
+- Someone Priya does not know · “Supermarket basil and a very dead mint. Does that count?”
+- Someone from Aisha’s village group · “Aisha put your thing in our group. Is there still a place?”
+
+The windowsill question got the answers, so it stays the last line of every post. Priya answered each comment herself and sent the person who asked the landing page.

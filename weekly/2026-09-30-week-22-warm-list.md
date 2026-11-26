@@ -34,10 +34,15 @@ Not in the task list. Listed in the chat, all mine:
 - Ask Owen about a founding place. Due Friday 30 October 2026.
 
 ## Still open
-- The five introducers have not been asked.
 - Whether Fatima's followers grow chillies: Unknown.
 - My own windowsill photo goes on the page when I attach it.
 
 ## Records
 - The warm list: `growth/2026-09-30-warm-list.md`
 - This summary: `weekly/2026-09-30-week-22-warm-list.md`
+
+## First reply
+
+- Aisha · “Most of us, me included. Send me two lines and I’ll put them in the group tonight. Nothing that reads like an advert or they’ll mute me.”
+
+Aisha's reply ended her series. Priya sent her the two lines that afternoon instead of on Wednesday 28 October. On the warm list, Aisha's group moved from "fit not known" to "most have tried chillies", in Aisha's words.

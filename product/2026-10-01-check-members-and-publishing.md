@@ -18,7 +18,7 @@ This records what Priya told Claude after building payments and access in Claude
 |---|---|---|
 | Bought, so in | Met on a phone, with a sample purchase | Priya, 1 October 2026 |
 | Refunded, so out | Met on a phone, with a sample refund | Priya, 1 October 2026 |
-| Cancelled, still in until the month ends | Not checked | Priya, 1 October 2026 |
+| Cancelled, still in until the month ends | Passed with a sample cancel message | Priya, Week 17 focus block |
 
 ## Earlier journey
 This week and its ticks still work after this build (Priya, 1 October 2026). From Week 15, Nadia ticked all three, signed out and back in, and her ticks were still there; a second account did not see them (Priya, 1 October 2026).
@@ -29,18 +29,24 @@ The weekly post (Week 16): Tom posted the first photo. Its checks are in `produc
 | Criterion | Priya | Claude's view |
 |---|---|---|
 | The first journey still works | Yes: This week and its ticks still work. | Agreed. |
-| A member can finish the new one without help | Yes. | Agreed, with a note: no member other than Priya was named as trying it, and the cancelled line was not checked. |
-| What stays private is private | Yes (first said partly; changed after the email check and the signed-out check both passed). | Agreed. The cancelled line is still not checked. |
+| A member can finish the new one without help | Yes. | Agreed, with a note: no member other than Priya was named as trying it, and checks used Gumroad’s sample messages. |
+| What stays private is private | Yes (first said partly; changed after the email check and the signed-out check both passed). | Agreed. |
 
 ## Claude's one improvement (Priya took it)
 Sign in as a second member and look at every page for anyone else's email, then open This week signed out. Result: no one else's email on any page, and only the sign-in page when signed out.
 
 ## Not checked or Unknown
-- Cancelled, still in until the month ends: not checked.
 - A scheduled week opening on its own at its opening time: not reported.
 - The same sale arriving twice making one member, not two: not reported.
 - A message from outside Chilli's Gumroad product letting nobody in: not reported.
-- A free Gumroad code (a £0 sale) letting a founding member in: Unknown.
 - A week saved with no video or no opening time, and the message when the connection drops: not reported.
 - Nobody buys anything on the live product. Priya only checks her payment page.
 - Whether it was checked on the test address or only on the practice copy: Unknown.
+
+## Payment page
+
+- Megan R. · “Eight pounds a month, fine. But if I press that today, does it come out today? Nothing’s even started.”
+
+Priya added one line under the price: "Week one opens Monday 19 October. Nothing is taken before then." Nobody paid.
+
+In her Week 17 focus block, Priya sent Gumroad's sample cancel message for a member partway through a paid month. The member still landed on This week: cancelled, still in until the month ends, passed. Ending access when the month runs out stays a by-hand step, and that gap is the one she ranks first in Week 20.

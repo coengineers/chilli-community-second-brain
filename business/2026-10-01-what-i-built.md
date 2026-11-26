@@ -7,21 +7,21 @@ The page, in my Claude account and private to me: https://claude.ai/artifact/Li8
 ## What is true today
 
 - Four of the six people invited joined the pilot at £8 a month (simulated for the course). The yeses in the Week 12 asks came from practice conversations.
-- The first messages start tomorrow, Thursday 22 October 2026. The first post is due Wednesday 28 October 2026. Nothing has been posted yet.
-- Chilli went live on Tuesday 13 October 2026 and the doors opened on Monday 19 October 2026, as Priya reports. Neither address has been checked from another phone.
+- Priya published "The plants I bought in September" on Instagram, the first place she chose, on Wednesday 28 October. By Saturday 31 October it had 19 likes, four comments and one message.
+- Chilli went live on Tuesday 13 October 2026 and the doors opened on Monday 19 October 2026, as Priya reports. Jo repeated the fixed steps on her own phone, the day after going live.
 - The photo on the page is an illustrative stand-in until Priya attaches her own.
 
 ## The video
 
-Six parts, 2:45 in total, 15 seconds spare. Priya records it herself on Sunday 15 November 2026 in one take and posts it where she chooses. Claude posts nothing. The lines are drafts for Priya to say her way.
+Priya recorded the journey video in one take on Sunday 15 November: 2 minutes 45 seconds, six parts. She posted it on the Chilli playlist and sent it to Jo on WhatsApp that evening. The lines below are the draft.
 
 | Start | Length | Part | Line to say | Screens |
 |---|---|---|---|---|
 | 0:00 | 15 s | Start with the idea | Chilli Community is a chilli-only membership that helps beginners grow chillies, cook simple recipes and share what they make. | Weeks 0, 2 (also 3) |
 | 0:15 | 25 s | Who it is for | It is for someone new to growing who killed a chilli plant and thinks they are not a plant person. I built the offer from practice conversations with people like that, and the look is calm and warm for them. | Weeks 4, 5 |
 | 0:40 | 40 s | What they get and the price | Windowsill to Plate is £8 a month. Each week a member gets a recipe, a video and one job to do. Here is the one-page summary and the deck I use to explain it. | Weeks 7, 8 (also 6, 11, 12) |
-| 1:20 | 35 s | The app, on a phone | This is the app on its own address. This week shows the job. The weekly post lets members share a photo of their plant. Payments stay a Gumroad link, and I add founding members by hand. Early testers tried each feature on their phones. | Weeks 14, 15, 16, 17 (also 9, 10, 13, 18) |
-| 1:55 | 40 s | Going live and the first members | The landing page and app went live on 13 October and the pilot opened on 19 October: six invited, four joined. I have a list of 18 people and my first post goes out on 28 October. | Weeks 19, 22, 25 (also 20, 21, 23, 24) |
+| 1:20 | 35 s | The app, on a phone | This is the app on its own address. This week shows the job. The weekly post lets members share a photo of their plant. A payment lets a member in, and they stay in for the month they paid for. Early testers tried each feature on their phones. | Weeks 14, 15, 16, 17 (also 9, 10, 13, 18) |
+| 1:55 | 40 s | Going live and the first members | The landing page and app went live on 13 October and the pilot opened on 19 October: six invited, four joined. I have a list of 18 people and I published the Instagram post on Wednesday. | Weeks 19, 22, 25 (also 20, 21, 23, 24) |
 | 2:35 | 10 s | The goal | My goal is 10 paying founding members by 19 January, and 20 by the end of March. | The 90-day plan page |
 
 Priya's rating of this plan against "fits three minutes": partly (she said the video had eight parts; it has six). Claude's improvement, taken: part four cut from 50 to 35 seconds. The dates in part five will have moved by 15 November, so they are changed on the day.
@@ -58,3 +58,8 @@ The links open pages in Priya's own Claude account.
 | 24 | Content plan | https://claude.ai/artifact/9edLNxXpXguxXSxBHQUqAf |
 | 25 | First post | https://claude.ai/artifact/4jtYodL46MwStYAvF7aQDm |
 
+## What Jo said
+
+- Jo · “Watched it on the bus. ‘Not a plant person’, that’s me. When you first read me your line I said it was for my dad. Can I send it to my sister?”
+
+Priya said yes. Jo's sister (new person: Jo's sister, a lead through Jo) went on the warm list for the second round of asks on Friday 20 November.

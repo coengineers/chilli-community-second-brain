@@ -15,7 +15,7 @@ Instagram first. The same moment then goes on the Chilli playlist on the CoEngin
 
 - Decided: Priya, 21 October 2026. Instagram is the one place she publishes first; the playlist is second, made from the same piece.
 - Testing: that these are the right places for beginners.
-- Unknown: whether anyone sees it.
+- By Saturday 31 October it had 19 likes, four comments and one message.
 - Forums come later, if at all. Their rules ban links and pitching, so they could never carry the ask.
 
 ## What counts as a moment
@@ -67,7 +67,7 @@ Each slot names the kind of moment it will come from. When the moment happens, s
 | Mon 26 Oct | 2 | My windowsill, this week | Windowsill photo | Sat 31 Oct 2026 |
 | Mon 2 Nov | 1 | What members will get to do each week | Building the app, Ed's review | Wed 4 Nov 2026 |
 | Mon 2 Nov | 2 | Someone answered | A real reply, with permission, no name | Sat 7 Nov 2026 |
-| Mon 9 Nov | 1 | What week one looked like | Week one of the pilot; the one post that asks | Mon 9 Nov 2026 |
+| Mon 9 Nov | 1 | What week one looked like | Nadia’s windowsill photo and Megan’s Sunday check-in, without their names; the one post that asks | Mon 9 Nov 2026 |
 | Mon 9 Nov | 2 | The first thing I cooked | First recipe with shop chillies | Sat 14 Nov 2026 |
 | Mon 16 Nov | 1 | The first seedling | First seedling on the windowsill | Wed 18 Nov 2026 |
 | Mon 16 Nov | 2 | What went wrong, or what surprised me | Something that happened that week | Sat 21 Nov 2026 |
@@ -82,12 +82,19 @@ Seven posts in eight give, and the call to action is a reply. The post about wee
 
 ## How we'll know
 
-Replies to posts, and people who ask about a founding place. The day for a first look is not chosen yet: To be decided once these four weeks are done. Whether any post reaches a beginner is Unknown.
+Replies to posts, and people who ask about a founding place. The day for a first look is not chosen yet: To be decided once these four weeks are done. By Saturday 31 October it had 19 likes, four comments and one message.
 
 ## Done
 
-Nothing posted yet.
+Priya published "The plants I bought in September" on Instagram, the first place she chose, on Wednesday 28 October. By Saturday 31 October it had 19 likes, four comments and one message.
 
 ## Changes
 
 - 21 October 2026 (Week 24): built from real moments and Priya's real hours. Three hours a week, two posts, Instagram as the first place and the Chilli playlist second, and eight posts planned from Monday 26 October 2026. Week one of the pilot opened on Monday 19 October 2026.
+
+## This week’s two moments
+
+- Nadia S. · “Kitchen windowsill, Leeds. Two empty pots from my last go, scrubbed. Third time lucky.”
+- Megan R. · “Made the oil on Saturday and nothing caught fire. Too many flakes though, my lips are still tingling.”
+
+Priya kept both moments together for Week 25. Both said she could use their words without their names, so they went into the slot "What week one looked like" on Monday 9 November, the one post that asks. Her own plants moment stayed first, on Wednesday 28 October.

@@ -30,7 +30,19 @@ All six account steps are done on Priya's word. The landing page and app go live
 
 ## The Week 18 problems
 
-Priya says none of the four other problems was serious, so nothing holds the launch. Their step, Jo's words and grade were not noted, so they are still not graded.
+Jo repeated the fixed steps on her own phone, Wednesday 14 October 2026.
+
+| Step | Result |
+|---|---|
+| 1, the join link | Passed |
+| 6, the chilli | Passed |
+| 8, how to join | Passed |
+| 5, the photo | Failed |
+| 2, the cut-off name | Not retested: left on purpose in Week 18 |
+
+"Straight in this time. The chilli goes red when you tap it now. But look, my photo's still on its side."
+
+The photo is annoying, so the doors date holds. I fix it again, and Jo tries it before the doors open.
 
 ## The way back
 
@@ -53,7 +65,7 @@ Priya says none of the four other problems was serious, so nothing holds the lau
 
 ## Unknown
 
-- Whether both addresses open and show the latest version from any phone but Priya's.
+- The landing page from a different phone: not checked.
 - Whether the name connections have finished settling.
 - Whether the London and who-sees-what lines on the privacy page match the live database.
 - Whether the app's copy has moved into Priya's account. It sat under CoEngineers in the app map.
